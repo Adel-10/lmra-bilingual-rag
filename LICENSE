@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTICE — third-party data
+
+The MIT license above applies to the SOURCE CODE in this repository
+(crawler/, pipeline/, eval/, app/, and associated documentation), which is
+the original work of the copyright holder named above.
+
+It does NOT apply to the contents of the data/ directory. Those files
+contain (or are derived from) content published on the website of the
+Labour Market Regulatory Authority of the Kingdom of Bahrain
+(https://lmra.gov.bh), which remains the copyright of the Labour Market
+Regulatory Authority. That content is included solely for reproducibility
+and demonstration of this software and may not be reused or redistributed
+except as permitted by LMRA's own terms and applicable law. The corpus can
+be regenerated from the original public source at any time by running
+crawler/crawl.py.

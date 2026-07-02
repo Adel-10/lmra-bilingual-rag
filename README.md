@@ -227,3 +227,8 @@ when labels change. It caught two real bugs before any user could.
 *Unofficial demo over public lmra.gov.bh content. Not affiliated with or
 endorsed by LMRA. Always verify procedures and fees with LMRA directly
 before acting.*
+
+*License: the source code is MIT-licensed (© Adel Mithaiwala). The `data/`
+directory contains content © Labour Market Regulatory Authority, Kingdom of
+Bahrain, included for reproducibility only and not covered by the MIT
+license — see the NOTICE in [LICENSE](LICENSE).*

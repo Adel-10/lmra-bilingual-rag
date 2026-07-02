@@ -70,6 +70,30 @@ The one faithfulness PARTIAL: an answer attributed LMRA's general call-centre
 number to sources describing a different service — a real (minor) defect,
 kept visible rather than tuned away.
 
+### Held-out check
+
+The table above is measured on cases the system was iterated against, so a
+second set of 15 fresh questions (services and laws never touched during
+development) was written and run **once**, results reported as-is:
+
+| metric | held-out (single run) |
+|---|---|
+| retrieval hit@6 | 12/12 |
+| citation correct | 10/10 |
+| faithfulness SUPPORTED | 10/10 |
+| abstained on out-of-corpus | 3/3 |
+| false abstention (answerable) | **2/12** |
+
+Everything the system *said* was correct and correctly cited, including the
+cross-lingual cases (3/3). The two failures are false abstentions: two-part
+questions ("what is the deportation deposit *and when is it refunded*")
+where the correct page was retrieved at rank 1 but covers the question only
+partially, and the safety-first refusal policy (any `[NOT_IN_SOURCES]`
+marker → full abstention) converts a partial answer into a refusal. The
+error is on the safe side — the user is pointed to LMRA, not misinformed —
+but it is a real usefulness cost of the conservative design, documented
+here rather than tuned away. (`eval/heldout.jsonl`, `eval/heldout_report.md`)
+
 **What the eval caught during development** (why it's a first-class
 deliverable, not an afterthought):
 

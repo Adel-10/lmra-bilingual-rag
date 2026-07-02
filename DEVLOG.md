@@ -247,6 +247,22 @@ the judge surfaced that LMRA's own EN and AR pages *contradict each other*
 in places (tripartite contract: "Original" in English, «نسخة»/copy in
 Arabic) — a data-quality insight about bilingual government content.
 
+**Held-out evaluation.** The final table is measured on cases the fixes
+were iterated against — a legitimate development loop but a weak
+generalization claim. So a held-out set of 15 fresh cases (services and
+laws never touched in development: deportation deposit, authorized
+persons, optional insurance, WPS, the Arabic-only inspection resolution…)
+was written and run exactly once, no fixes permitted, results reported
+as-is. Outcome: retrieval 12/12, citations 10/10, faithfulness 10/10,
+out-of-corpus abstention 3/3, cross-lingual 3/3 — and **2/12 false
+abstentions**. Diagnosis: both refusals had the correct page at rank 1;
+they were two-part questions partially covered by thin service pages, and
+the safety-first policy (any `[NOT_IN_SOURCES]` marker → full abstention,
+adopted after case_8b7bd6d1) converts partial answers into refusals. The
+system's residual bias is conservative: when it errs, it errs toward
+"verify with LMRA," never toward invention. That trade-off is the honest
+headline of the whole guardrail design.
+
 ## Phase 5 — Chat UI
 
 A thin FastAPI server (`app/api.py`) wraps the exact `RagPipeline.answer()`

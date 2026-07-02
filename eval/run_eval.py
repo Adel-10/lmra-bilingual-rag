@@ -219,7 +219,19 @@ def main() -> None:
     ap.add_argument("--rescore", action="store_true",
                     help="recompute metrics from stored results against current "
                          "testset labels — zero API calls, does not run new cases")
+    ap.add_argument("--results", default=None,
+                    help="results file (default: eval/results.jsonl). Use a "
+                         "separate file for held-out sets so they never mix "
+                         "with tuning-set results")
+    ap.add_argument("--report", default=None,
+                    help="report file (default: eval/report.md)")
     args = ap.parse_args()
+
+    global RESULTS, REPORT
+    if args.results:
+        RESULTS = Path(args.results)
+    if args.report:
+        REPORT = Path(args.report)
 
     if args.rescore:
         cases_by_id = {c["id"]: c for c in map(

@@ -16,35 +16,22 @@ to serve).
 
 ## Example interactions
 
-**English question, bilingual sources** — answers assemble from whichever
-language version ranks best:
+**English question, bilingual sources** — the answer assembles from
+whichever language version ranks best; note the AR badge on citation [1]:
 
-> **Q:** What documents do I need to hire a domestic worker directly?
->
-> **A:** The required documents depend on whether you apply online or in
-> person [1][3]: *(online)* Employer Undertaking form (original), employee
-> passport (copy), valid medical examination (copy, for employees outside
-> Bahrain) … *(walk-in adds)* Work Permit Application form, employer ID… [1][3]
->
-> Sources: `[1] (ar) lmra.gov.bh/ar/page/show/435 · [3] (en) lmra.gov.bh/en/page/show/435`
+![English question answered with English and Arabic sources](Assets/English-prompt.png)
 
-**Arabic question, exact figures preserved:**
+**Arabic question, exact figures preserved** — full RTL answer with the
+fee breakdown per employer type, all six citations pointing at the Arabic
+fee tables:
 
-> **س:** كم رسوم تصريح العمل للعمالة المنزلية لمدة سنتين؟
->
-> **ج:** تصريح جديد (صاحب عمل بحريني): **118 د.ب** [2][3]، رسوم مخفضة لكبار
-> المواطنين: **103 د.ب** [3]، صاحب عمل أجنبي: **618 د.ب** شاملة الضمان [4]،
-> التجديد: **79 د.ب** [1][6] …
->
-> Sources: `lmra.gov.bh/ar/page/show/471 · /435 · /449`
+![Arabic fees question, answer part 1](Assets/Arabic-prompt-1.png)
+
+![Arabic fees question, fee breakdown and cited sources](Assets/Arabic-prompt-2.png)
 
 **Out-of-corpus question — deterministic abstention, no improvisation:**
 
-> **Q:** How do I renew my Bahraini driving license?
->
-> **A:** I couldn't find this in the available LMRA content, so I won't
-> guess. Please verify directly with the Labour Market Regulatory Authority
-> (https://lmra.gov.bh, call centre +973 17506055).
+![Out-of-corpus question triggering the fixed abstention template](Assets/Out-of-corpus-prompt.png)
 
 The flagship cross-lingual case: *"What does the law say about settlement of
 labour market crimes?"* retrieves and correctly cites **قرار رقم (3) لسنة

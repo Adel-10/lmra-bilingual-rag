@@ -1,0 +1,18 @@
+---
+doc_id: law_112_ar
+title: قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023- 2026 (Arabic Only)
+language: ar
+content_language: ar
+redundant_with_pair: false
+source_url: https://lmra.gov.bh/ar/legal/show/112
+service_groups: ["Legal"]
+last_update: 10-07-2023
+pair_id: law_112_en
+kind: law
+---
+
+# قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023- 2026
+
+المصدر: إدارة هيئة تنظيم سوق العمل
+
+[قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023-2026 PDF (3.13 MB, Arabic Only)](https://lmra.gov.bh/files/cms/shared/market-plan%20(1).pdf)

@@ -1,0 +1,4627 @@
+[
+  {
+    "doc_id": "law_121_en",
+    "id": -1121,
+    "title": "قرار رقم (121) لسنة 2007 بشأن تأشيرة دخول ورخصة إقامة أفراد عائلة العامل وصاحب العمل الأجنبي (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/121",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 July 2025",
+    "kind": "law",
+    "pair_id": "law_121_ar",
+    "chars": 4708,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.965
+  },
+  {
+    "doc_id": "law_121_ar",
+    "id": -1121,
+    "title": "قرار رقم (121) لسنة 2007 بشأن تأشيرة دخول ورخصة إقامة أفراد عائلة العامل وصاحب العمل الأجنبي (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/121",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-07-2025",
+    "kind": "law",
+    "pair_id": "law_121_en",
+    "chars": 4660,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_120_en",
+    "id": -1120,
+    "title": "قرار رقم (74) لسنة 2007 بشأن منح رخصة إقامة للأجانب بالكفالة الشخصية (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/120",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 July 2025",
+    "kind": "law",
+    "pair_id": "law_120_ar",
+    "chars": 5205,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.964
+  },
+  {
+    "doc_id": "law_120_ar",
+    "id": -1120,
+    "title": "قرار رقم (74) لسنة 2007 بشأن منح رخصة إقامة للأجانب بالكفالة الشخصية (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/120",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-07-2025",
+    "kind": "law",
+    "pair_id": "law_120_en",
+    "chars": 5156,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_119_en",
+    "id": -1119,
+    "title": "مرسوم بقانون رقم (54) لسنة 2018 بإصدار قانون الخطابات والمعاملات الإلكترونية (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/119",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "14 May 2025",
+    "kind": "law",
+    "pair_id": "law_119_ar",
+    "chars": 3121,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.94
+  },
+  {
+    "doc_id": "law_119_ar",
+    "id": -1119,
+    "title": "مرسوم بقانون رقم (54) لسنة 2018 بإصدار قانون الخطابات والمعاملات الإلكترونية (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/119",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "14-05-2025",
+    "kind": "law",
+    "pair_id": "law_119_en",
+    "chars": 3071,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_118_en",
+    "id": -1118,
+    "title": "قانون رقم (60) لسنة 2014 بشأن جرائم تقنية المعلومات (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/118",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "5 March 2025",
+    "kind": "law",
+    "pair_id": "law_118_ar",
+    "chars": 16099,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.968
+  },
+  {
+    "doc_id": "law_118_ar",
+    "id": -1118,
+    "title": "قانون رقم (60) لسنة 2014 بشأن جرائم تقنية المعلومات (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/118",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "05-03-2025",
+    "kind": "law",
+    "pair_id": "law_118_en",
+    "chars": 16006,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_117_en",
+    "id": -1117,
+    "title": "قانون رقم (16) لسنة 2014 بشأن حماية معلومات ووثائق الدولة (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/117",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "5 March 2025",
+    "kind": "law",
+    "pair_id": "law_117_ar",
+    "chars": 6276,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.945
+  },
+  {
+    "doc_id": "law_117_ar",
+    "id": -1117,
+    "title": "قانون رقم (16) لسنة 2014 بشأن حماية معلومات ووثائق الدولة (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/117",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "05-03-2025",
+    "kind": "law",
+    "pair_id": "law_117_en",
+    "chars": 6183,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_115_en",
+    "id": -1115,
+    "title": "مرسوم بقانون رقم (12) لسنة 2024 بتعديل المادة (40) من القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/115",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "3 September 2024",
+    "kind": "law",
+    "pair_id": "law_115_ar",
+    "chars": 2286,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.93
+  },
+  {
+    "doc_id": "law_115_ar",
+    "id": -1115,
+    "title": "مرسوم بقانون رقم (12) لسنة 2024 بتعديل المادة (40) من القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/115",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "03-09-2024",
+    "kind": "law",
+    "pair_id": "law_115_en",
+    "chars": 2233,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_114_en",
+    "id": -1114,
+    "title": "قرار رقم (1) لسنة 2014 بشأن تنظيم تراخيص مكاتب التوظيف",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/114",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "29 March 2026",
+    "kind": "law",
+    "pair_id": "law_114_ar",
+    "chars": 8751,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.98
+  },
+  {
+    "doc_id": "law_114_ar",
+    "id": -1114,
+    "title": "قرار رقم (1) لسنة 2014 بشأن تنظيم تراخيص مكاتب التوظيف",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/114",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "29-03-2026",
+    "kind": "law",
+    "pair_id": "law_114_en",
+    "chars": 8716,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_113_en",
+    "id": -1113,
+    "title": "Decree No. (75) of 2023 Appointment of Chief Executive Officer of the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/113",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "8 February 2024",
+    "kind": "law",
+    "pair_id": "law_113_ar",
+    "chars": 1333,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_113_ar",
+    "id": -1113,
+    "title": "Decree No. (75) of 2023 Appointment of Chief Executive Officer of the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/113",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "08-02-2024",
+    "kind": "law",
+    "pair_id": "law_113_en",
+    "chars": 1001,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_112_en",
+    "id": -1112,
+    "title": "قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023- 2026 (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/112",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "10 July 2023",
+    "kind": "law",
+    "pair_id": "law_112_ar",
+    "chars": 332,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.726
+  },
+  {
+    "doc_id": "law_112_ar",
+    "id": -1112,
+    "title": "قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023- 2026 (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/112",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "10-07-2023",
+    "kind": "law",
+    "pair_id": "law_112_en",
+    "chars": 284,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_111_en",
+    "id": -1111,
+    "title": "مرسوم رقم (13) لسنة 2023 بإعادة تنظيم هيئة تنظيم سوق العمل (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/111",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "2 March 2023",
+    "kind": "law",
+    "pair_id": "law_111_ar",
+    "chars": 1814,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.916
+  },
+  {
+    "doc_id": "law_111_ar",
+    "id": -1111,
+    "title": "مرسوم رقم (13) لسنة 2023 بإعادة تنظيم هيئة تنظيم سوق العمل (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/111",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "02-03-2023",
+    "kind": "law",
+    "pair_id": "law_111_en",
+    "chars": 1764,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_110_en",
+    "id": -1110,
+    "title": "قرار رقم (178) لسنة 2022 بشأن توفيق أوضاع الإقامة للمتقدمين لإصدار تصريح مزاولة نشاط مهني (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/110",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_110_ar",
+    "chars": 2476,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.906
+  },
+  {
+    "doc_id": "law_110_ar",
+    "id": -1110,
+    "title": "قرار رقم (178) لسنة 2022 بشأن توفيق أوضاع الإقامة للمتقدمين لإصدار تصريح مزاولة نشاط مهني (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/110",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_110_en",
+    "chars": 2386,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_109_en",
+    "id": -1109,
+    "title": "قرار رقم (78) لسنة 2022 بشأن اعتماد نشاط مهني (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/109",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "2 March 2023",
+    "kind": "law",
+    "pair_id": "law_109_ar",
+    "chars": 1204,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.834
+  },
+  {
+    "doc_id": "law_109_ar",
+    "id": -1109,
+    "title": "قرار رقم (78) لسنة 2022 بشأن اعتماد نشاط مهني (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/109",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "02-03-2023",
+    "kind": "law",
+    "pair_id": "law_109_en",
+    "chars": 1112,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_107_en",
+    "id": -1107,
+    "title": "قرار رقم (1) لسنة 2022 بشأن إسناد بعض مهام هيئة تنظيم سوق العمل إلى مراكز تسجيل العمالة وتعديلاته (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/107",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17 February 2025",
+    "kind": "law",
+    "pair_id": "law_107_ar",
+    "chars": 5964,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.949
+  },
+  {
+    "doc_id": "law_107_ar",
+    "id": -1107,
+    "title": "قرار رقم (1) لسنة 2022 بشأن إسناد بعض مهام هيئة تنظيم سوق العمل إلى مراكز تسجيل العمالة وتعديلاته (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/107",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17-02-2025",
+    "kind": "law",
+    "pair_id": "law_107_en",
+    "chars": 5870,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_106_en",
+    "id": -1106,
+    "title": "مرسوم رقم (34) لسنة 2022 بتعيين رئيس تنفيذي لهيئة تنظيم سوق العمل (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/106",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26 February 2023",
+    "kind": "law",
+    "pair_id": "law_106_ar",
+    "chars": 1057,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.832
+  },
+  {
+    "doc_id": "law_106_ar",
+    "id": -1106,
+    "title": "مرسوم رقم (34) لسنة 2022 بتعيين رئيس تنفيذي لهيئة تنظيم سوق العمل (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/106",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26-02-2023",
+    "kind": "law",
+    "pair_id": "law_106_en",
+    "chars": 988,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_103_en",
+    "id": -1103,
+    "title": "قرار رقم (26) لسنة 2008 بشأن الرسوم المفروضة على أصحاب العمل  لاستخراج تصاريح العمل وتجديدها ورخص الإقامة لأفراد عائلة العامل وصاحب العمل الأجنبي وتعديلاته (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/103",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "5 January 2026",
+    "kind": "law",
+    "pair_id": "law_103_ar",
+    "chars": 2851,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.94
+  },
+  {
+    "doc_id": "law_103_ar",
+    "id": -1103,
+    "title": "قرار رقم (26) لسنة 2008 بشأن الرسوم المفروضة على أصحاب العمل  لاستخراج تصاريح العمل وتجديدها ورخص الإقامة لأفراد عائلة العامل وصاحب العمل الأجنبي وتعديلاته (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/103",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "05-01-2026",
+    "kind": "law",
+    "pair_id": "law_103_en",
+    "chars": 2801,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_102_en",
+    "id": -1102,
+    "title": "Resolution (23) for the Year 2021 Regarding Adding a Paragraph to the Second Article of Resolution (68) for the Year 2019 Regarding the Wages Protection Scheme",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/102",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 February 2023",
+    "kind": "law",
+    "pair_id": "law_102_ar",
+    "chars": 1265,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_102_ar",
+    "id": -1102,
+    "title": "Resolution (23) for the Year 2021 Regarding Adding a Paragraph to the Second Article of Resolution (68) for the Year 2019 Regarding the Wages Protection Scheme",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/102",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-02-2023",
+    "kind": "law",
+    "pair_id": "law_102_en",
+    "chars": 1048,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_101_en",
+    "id": -1101,
+    "title": "Resolution (22) for the Year 2021 Regarding the Stages of Implementing the Wages Protection Scheme",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/101",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 February 2023",
+    "kind": "law",
+    "pair_id": "law_101_ar",
+    "chars": 2126,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_101_ar",
+    "id": -1101,
+    "title": "Resolution (22) for the Year 2021 Regarding the Stages of Implementing the Wages Protection Scheme",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/101",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-02-2023",
+    "kind": "law",
+    "pair_id": "law_101_en",
+    "chars": 1804,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_100_en",
+    "id": -1100,
+    "title": "Order No. (28) of 2008 With Respect to Refund of Work Permits Fees, Reducing Fees for Change of  Profession Request and Imposing Fine on the Delay in the Payment Monthly Fee for a Foreign Worker",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/100",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_100_ar",
+    "chars": 1870,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_100_ar",
+    "id": -1100,
+    "title": "Order No. (28) of 2008 With Respect to Refund of Work Permits Fees, Reducing Fees for Change of  Profession Request and Imposing Fine on the Delay in the Payment Monthly Fee for a Foreign Worker",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/100",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_100_en",
+    "chars": 1482,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_99_en",
+    "id": -1099,
+    "title": "Order No. (31) of 2014 With Respect to some of  Imposed charges at the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/99",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_99_ar",
+    "chars": 2879,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_99_ar",
+    "id": -1099,
+    "title": "Order No. (31) of 2014 With Respect to some of  Imposed charges at the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/99",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_99_en",
+    "chars": 2722,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_98_en",
+    "id": -1098,
+    "title": "Resolution (27) for the year 2016 Regarding Some Fees imposed by the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/98",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "3 July 2023",
+    "kind": "law",
+    "pair_id": "law_98_ar",
+    "chars": 2112,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_98_ar",
+    "id": -1098,
+    "title": "Resolution (27) for the year 2016 Regarding Some Fees imposed by the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/98",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "03-07-2023",
+    "kind": "law",
+    "pair_id": "law_98_en",
+    "chars": 1818,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_97_en",
+    "id": -1097,
+    "title": "Resolution No. (1) for the year 2017 Regarding Fees Imposed by the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/97",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26 February 2023",
+    "kind": "law",
+    "pair_id": "law_97_ar",
+    "chars": 3536,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_97_ar",
+    "id": -1097,
+    "title": "Resolution No. (1) for the year 2017 Regarding Fees Imposed by the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/97",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26-02-2023",
+    "kind": "law",
+    "pair_id": "law_97_en",
+    "chars": 3222,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_91_en",
+    "id": -1091,
+    "title": "Order No. (9) of 2007 With Regard  to Proving  Medical Fitness of Foreign Workers",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/91",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_91_ar",
+    "chars": 2592,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_91_ar",
+    "id": -1091,
+    "title": "Order No. (9) of 2007 With Regard  to Proving  Medical Fitness of Foreign Workers",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/91",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_91_en",
+    "chars": 1947,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_89_en",
+    "id": -1089,
+    "title": "قرار رقم (122) لسنة 2007 بشأن ضوابط وإجراءات ترحيل أو نقل جثمان العامل الأجنبي (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/89",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_89_ar",
+    "chars": 2358,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.849
+  },
+  {
+    "doc_id": "law_89_ar",
+    "id": -1089,
+    "title": "قرار رقم (122) لسنة 2007 بشأن ضوابط وإجراءات ترحيل أو نقل جثمان العامل الأجنبي (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/89",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_89_en",
+    "chars": 2244,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_88_en",
+    "id": -1088,
+    "title": "Order No. (29) of 2014 With Regard to Specifying  and Regulating Basic Health Care for Workers of Corporations",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/88",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "5 January 2026",
+    "kind": "law",
+    "pair_id": "law_88_ar",
+    "chars": 6040,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_88_ar",
+    "id": -1088,
+    "title": "Order No. (29) of 2014 With Regard to Specifying  and Regulating Basic Health Care for Workers of Corporations",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/88",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "05-01-2026",
+    "kind": "law",
+    "pair_id": "law_88_en",
+    "chars": 5722,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_87_en",
+    "id": -1087,
+    "title": "Resolution (6) for the year 2015 To Amend Some Provisions of Resolution (29) for the year 2014 Regarding the Specification and Organization of Basic Healthcare for Facility Workers",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/87",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_87_ar",
+    "chars": 1918,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_87_ar",
+    "id": -1087,
+    "title": "Resolution (6) for the year 2015 To Amend Some Provisions of Resolution (29) for the year 2014 Regarding the Specification and Organization of Basic Healthcare for Facility Workers",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/87",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_87_en",
+    "chars": 1561,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_86_en",
+    "id": -1086,
+    "title": "(Arabic Only) قرار رقم (108) لسنة 2017 بشأن تصحيح أوضاع الإقامة للمتقدمين لإصدار تصريح صاحب عمل (عامل مرن)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/86",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "2 March 2023",
+    "kind": "law",
+    "pair_id": "law_86_ar",
+    "chars": 2479,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.839
+  },
+  {
+    "doc_id": "law_86_ar",
+    "id": -1086,
+    "title": "(Arabic Only) قرار رقم (108) لسنة 2017 بشأن تصحيح أوضاع الإقامة للمتقدمين لإصدار تصريح صاحب عمل (عامل مرن)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/86",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "02-03-2023",
+    "kind": "law",
+    "pair_id": "law_86_en",
+    "chars": 2455,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_85_en",
+    "id": -1085,
+    "title": "Resolution (68) for the year 2019 Regarding the Wages Protection Scheme",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/85",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_85_ar",
+    "chars": 2702,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_85_ar",
+    "id": -1085,
+    "title": "Resolution (68) for the year 2019 Regarding the Wages Protection Scheme",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/85",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_85_en",
+    "chars": 2120,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_84_en",
+    "id": -1084,
+    "title": "قرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة  (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/84",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 February 2023",
+    "kind": "law",
+    "pair_id": "law_84_ar",
+    "chars": 4131,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.927
+  },
+  {
+    "doc_id": "law_84_ar",
+    "id": -1084,
+    "title": "قرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة  (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/84",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-02-2023",
+    "kind": "law",
+    "pair_id": "law_84_en",
+    "chars": 4035,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_82_en",
+    "id": -1082,
+    "title": "قرار رقم (5) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/82",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 February 2023",
+    "kind": "law",
+    "pair_id": "law_82_ar",
+    "chars": 1918,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.684
+  },
+  {
+    "doc_id": "law_82_ar",
+    "id": -1082,
+    "title": "قرار رقم (5) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/82",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-02-2023",
+    "kind": "law",
+    "pair_id": "law_82_en",
+    "chars": 1535,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_81_en",
+    "id": -1081,
+    "title": "قرار رقم (71) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/81",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27 February 2023",
+    "kind": "law",
+    "pair_id": "law_81_ar",
+    "chars": 1187,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.813
+  },
+  {
+    "doc_id": "law_81_ar",
+    "id": -1081,
+    "title": "قرار رقم (71) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/81",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "27-02-2023",
+    "kind": "law",
+    "pair_id": "law_81_en",
+    "chars": 1093,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_80_en",
+    "id": -1080,
+    "title": "قرار رقم (58) لسنة 2021 باعتماد الخطة الوطنية لسوق العمل (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/80",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12 June 2023",
+    "kind": "law",
+    "pair_id": "law_80_ar",
+    "chars": 1141,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.763
+  },
+  {
+    "doc_id": "law_80_ar",
+    "id": -1080,
+    "title": "قرار رقم (58) لسنة 2021 باعتماد الخطة الوطنية لسوق العمل (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/80",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12-06-2023",
+    "kind": "law",
+    "pair_id": "law_80_en",
+    "chars": 1052,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_75_en",
+    "id": -1075,
+    "title": "Decree No. (51) of 2021 Regarding the Appointment of a Chief Executive Officer for the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/75",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26 February 2023",
+    "kind": "law",
+    "pair_id": "law_75_ar",
+    "chars": 1420,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_75_ar",
+    "id": -1075,
+    "title": "Decree No. (51) of 2021 Regarding the Appointment of a Chief Executive Officer for the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/75",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26-02-2023",
+    "kind": "law",
+    "pair_id": "law_75_en",
+    "chars": 1030,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_73_en",
+    "id": -1073,
+    "title": "Resolution (1) of 2019 Regarding the Implementation of the Wages Protection Scheme",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/73",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12 June 2023",
+    "kind": "law",
+    "pair_id": "law_73_ar",
+    "chars": 2500,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_73_ar",
+    "id": -1073,
+    "title": "Resolution (1) of 2019 Regarding the Implementation of the Wages Protection Scheme",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/73",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12-06-2023",
+    "kind": "law",
+    "pair_id": "law_73_en",
+    "chars": 1853,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_66_en",
+    "id": -1066,
+    "title": "Decree (39) for the year 2019 Regarding the Organization of the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/66",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "2 March 2023",
+    "kind": "law",
+    "pair_id": "law_66_ar",
+    "chars": 2114,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_66_ar",
+    "id": -1066,
+    "title": "Decree (39) for the year 2019 Regarding the Organization of the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/66",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "02-03-2023",
+    "kind": "law",
+    "pair_id": "law_66_en",
+    "chars": 1508,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_65_en",
+    "id": -1065,
+    "title": "Decree (58) for the year 2019 Regarding the Appointment of Deputy CEOs in the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/65",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26 February 2023",
+    "kind": "law",
+    "pair_id": "law_65_ar",
+    "chars": 1535,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_65_ar",
+    "id": -1065,
+    "title": "Decree (58) for the year 2019 Regarding the Appointment of Deputy CEOs in the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/65",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26-02-2023",
+    "kind": "law",
+    "pair_id": "law_65_en",
+    "chars": 1248,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_45_en",
+    "id": -1045,
+    "title": "قرار رقم (3) لسنة 2014 بشأن تنظيم تراخيص وكالات توريد العمال وتعديلاته (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/45",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17 February 2025",
+    "kind": "law",
+    "pair_id": "law_45_ar",
+    "chars": 7800,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.97
+  },
+  {
+    "doc_id": "law_45_ar",
+    "id": -1045,
+    "title": "قرار رقم (3) لسنة 2014 بشأن تنظيم تراخيص وكالات توريد العمال وتعديلاته (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/45",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17-02-2025",
+    "kind": "law",
+    "pair_id": "law_45_en",
+    "chars": 7749,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_44_en",
+    "id": -1044,
+    "title": "Order No. (4) of 2014 With regard to Regulation of Work Permits for Domestic Servants and Equivalent",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/44",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12 June 2023",
+    "kind": "law",
+    "pair_id": "law_44_ar",
+    "chars": 10650,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_44_ar",
+    "id": -1044,
+    "title": "Order No. (4) of 2014 With regard to Regulation of Work Permits for Domestic Servants and Equivalent",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/44",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "12-06-2023",
+    "kind": "law",
+    "pair_id": "law_44_en",
+    "chars": 6920,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_43_en",
+    "id": -1043,
+    "title": "قرار رقم (2) لسنة 2014 بشأن تنظيم تصاريح مزاولة صاحب العمل الأجنبي للأنشطة المهنية وتعديلاته (Arabic Only)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/43",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17 February 2025",
+    "kind": "law",
+    "pair_id": "law_43_ar",
+    "chars": 7065,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.948
+  },
+  {
+    "doc_id": "law_43_ar",
+    "id": -1043,
+    "title": "قرار رقم (2) لسنة 2014 بشأن تنظيم تصاريح مزاولة صاحب العمل الأجنبي للأنشطة المهنية وتعديلاته (Arabic Only)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/43",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17-02-2025",
+    "kind": "law",
+    "pair_id": "law_43_en",
+    "chars": 6971,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_37_en",
+    "id": -1037,
+    "title": "قرار رقم (74) لسنة 2007  بشأن التفتيش على الخاضعين لأحكام قانون تنظيم سوق العمل وتعديلاته",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/37",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "13 February 2025",
+    "kind": "law",
+    "pair_id": "law_37_ar",
+    "chars": 8022,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.978
+  },
+  {
+    "doc_id": "law_37_ar",
+    "id": -1037,
+    "title": "قرار رقم (74) لسنة 2007  بشأن التفتيش على الخاضعين لأحكام قانون تنظيم سوق العمل وتعديلاته",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/37",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "13-02-2025",
+    "kind": "law",
+    "pair_id": "law_37_en",
+    "chars": 7982,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_29_en",
+    "id": -1029,
+    "title": "Order No. (2) of 2013 With Regard to the Controls and Terms for Not Subjecting the Temporary Works of Foreign Works to the Provisions of  Labor Market Regulatory Authority Law",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/29",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_29_ar",
+    "chars": 2106,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_29_ar",
+    "id": -1029,
+    "title": "Order No. (2) of 2013 With Regard to the Controls and Terms for Not Subjecting the Temporary Works of Foreign Works to the Provisions of  Labor Market Regulatory Authority Law",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/29",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_29_en",
+    "chars": 1608,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_23_en",
+    "id": -1023,
+    "title": "Order No. (1) of 2013 With Regard  to Regulating Employers Registers",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/23",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_23_ar",
+    "chars": 3539,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_23_ar",
+    "id": -1023,
+    "title": "Order No. (1) of 2013 With Regard  to Regulating Employers Registers",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/23",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_23_en",
+    "chars": 2655,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_17_en",
+    "id": -1017,
+    "title": "Order No. (79) for 2009 Regarding the Procedures for Transferring a Foreign Worker to Another Employer",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/17",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "13 February 2024",
+    "kind": "law",
+    "pair_id": "law_17_ar",
+    "chars": 5614,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_17_ar",
+    "id": -1017,
+    "title": "Order No. (79) for 2009 Regarding the Procedures for Transferring a Foreign Worker to Another Employer",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/17",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "13-02-2024",
+    "kind": "law",
+    "pair_id": "law_17_en",
+    "chars": 3807,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_14_en",
+    "id": -1014,
+    "title": "Decision No. (76) (2008) Regarding Regulating Work Permits for Expatriate Employees Other than the category of Domestic Employees and its Amendments",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/14",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17 February 2025",
+    "kind": "law",
+    "pair_id": "law_14_ar",
+    "chars": 14384,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_14_ar",
+    "id": -1014,
+    "title": "Decision No. (76) (2008) Regarding Regulating Work Permits for Expatriate Employees Other than the category of Domestic Employees and its Amendments",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/14",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "17-02-2025",
+    "kind": "law",
+    "pair_id": "law_14_en",
+    "chars": 11399,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_13_en",
+    "id": -1013,
+    "title": "Order No. (77) of 2008 With Respect to the Employer's Obligations in the Event the Foreign Worker Leaves Work in Violation of the Terms of the Work Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/13",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11 June 2023",
+    "kind": "law",
+    "pair_id": "law_13_ar",
+    "chars": 2573,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_13_ar",
+    "id": -1013,
+    "title": "Order No. (77) of 2008 With Respect to the Employer's Obligations in the Event the Foreign Worker Leaves Work in Violation of the Terms of the Work Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/13",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "11-06-2023",
+    "kind": "law",
+    "pair_id": "law_13_en",
+    "chars": 1947,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_12_en",
+    "id": -1012,
+    "title": "قرار رقم (3) لسنة 2024 بشأن ضوابط وإجراءات التصالح في الجرائم التي تقع بالمخالفة لأحكام القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/12",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "7 October 2024",
+    "kind": "law",
+    "pair_id": "law_12_ar",
+    "chars": 2742,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.951
+  },
+  {
+    "doc_id": "law_12_ar",
+    "id": -1012,
+    "title": "قرار رقم (3) لسنة 2024 بشأن ضوابط وإجراءات التصالح في الجرائم التي تقع بالمخالفة لأحكام القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/12",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "07-10-2024",
+    "kind": "law",
+    "pair_id": "law_12_en",
+    "chars": 2706,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_7_en",
+    "id": -1007,
+    "title": "Order No (73) of 2007 With Respect to the Terms of Acceptance of Electronic Transactions By the Labour Market Regulatory Authority",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/7",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "2 March 2023",
+    "kind": "law",
+    "pair_id": "law_7_ar",
+    "chars": 4034,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_7_ar",
+    "id": -1007,
+    "title": "Order No (73) of 2007 With Respect to the Terms of Acceptance of Electronic Transactions By the Labour Market Regulatory Authority",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/7",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "02-03-2023",
+    "kind": "law",
+    "pair_id": "law_7_en",
+    "chars": 3126,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_2_en",
+    "id": -1002,
+    "title": "Order No. (70) of 2007 Respecting System of Consulting with the  Public and Concerned Authorities",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/show/2",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26 February 2023",
+    "kind": "law",
+    "pair_id": "law_2_ar",
+    "chars": 4860,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "law_2_ar",
+    "id": -1002,
+    "title": "Order No. (70) of 2007 Respecting System of Consulting with the  Public and Concerned Authorities",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/show/2",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "26-02-2023",
+    "kind": "law",
+    "pair_id": "law_2_en",
+    "chars": 3277,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat5_en",
+    "id": -105,
+    "title": "Legislations: category 5",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/category/5",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat5_ar",
+    "chars": 419,
+    "content_language": "ar",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.559
+  },
+  {
+    "doc_id": "legal_cat5_ar",
+    "id": -105,
+    "title": "Legislations: category 5",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/category/5",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat5_en",
+    "chars": 383,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat4_en",
+    "id": -104,
+    "title": "Legislations: category 4",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/category/4",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat4_ar",
+    "chars": 2470,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat4_ar",
+    "id": -104,
+    "title": "Legislations: category 4",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/category/4",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat4_en",
+    "chars": 2132,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat3_en",
+    "id": -103,
+    "title": "Legislations: category 3",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/category/3",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat3_ar",
+    "chars": 977,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat3_ar",
+    "id": -103,
+    "title": "Legislations: category 3",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/category/3",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat3_en",
+    "chars": 826,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat2_en",
+    "id": -102,
+    "title": "Legislations: category 2",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/category/2",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat2_ar",
+    "chars": 1085,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat2_ar",
+    "id": -102,
+    "title": "Legislations: category 2",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/category/2",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat2_en",
+    "chars": 863,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat1_en",
+    "id": -101,
+    "title": "Legislations: category 1",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/legal/category/1",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat1_ar",
+    "chars": 2840,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "legal_cat1_ar",
+    "id": -101,
+    "title": "Legislations: category 1",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/legal/category/1",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": null,
+    "kind": "legal",
+    "pair_id": "legal_cat1_en",
+    "chars": 2387,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat13_en",
+    "id": -13,
+    "title": "FAQ: General Inquiries about Labour Inspection Directorate",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/13",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "14 June 2026",
+    "kind": "faq",
+    "pair_id": "faq_cat13_ar",
+    "chars": 4019,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat13_ar",
+    "id": -13,
+    "title": "FAQ: General Inquiries about Labour Inspection Directorate",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/13",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "14 June 2026",
+    "kind": "faq",
+    "pair_id": "faq_cat13_en",
+    "chars": 3239,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat12_en",
+    "id": -12,
+    "title": "FAQ: General Questions about Wage Protection System (WPS)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/12",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "17 November 2025",
+    "kind": "faq",
+    "pair_id": "faq_cat12_ar",
+    "chars": 22299,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat12_ar",
+    "id": -12,
+    "title": "FAQ: General Questions about Wage Protection System (WPS)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/12",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "17 November 2025",
+    "kind": "faq",
+    "pair_id": "faq_cat12_en",
+    "chars": 18547,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat11_en",
+    "id": -11,
+    "title": "FAQ: General Questions Related to the Issuance of an International Bank Account Number (IBAN)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/11",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "12 August 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat11_ar",
+    "chars": 2355,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat11_ar",
+    "id": -11,
+    "title": "FAQ: General Questions Related to the Issuance of an International Bank Account Number (IBAN)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/11",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "12 August 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat11_en",
+    "chars": 1679,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat10_en",
+    "id": -10,
+    "title": "FAQ: General Questions for the Labour Registration Program",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/10",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "28 November 2023",
+    "kind": "faq",
+    "pair_id": "faq_cat10_ar",
+    "chars": 9698,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat10_ar",
+    "id": -10,
+    "title": "FAQ: General Questions for the Labour Registration Program",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/10",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "28 November 2023",
+    "kind": "faq",
+    "pair_id": "faq_cat10_en",
+    "chars": 8854,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat9_en",
+    "id": -9,
+    "title": "FAQ: General Questions for the E-Settlement Service",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/9",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "18 June 2026",
+    "kind": "faq",
+    "pair_id": "faq_cat9_ar",
+    "chars": 1756,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat9_ar",
+    "id": -9,
+    "title": "FAQ: General Questions for the E-Settlement Service",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/9",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "18 June 2026",
+    "kind": "faq",
+    "pair_id": "faq_cat9_en",
+    "chars": 1365,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat7_en",
+    "id": -7,
+    "title": "FAQ: General Questions About the New Mechanism for Expatriate Employees Employment from Outside the Kingdom of Bahrain",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/7",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "5 February 2025",
+    "kind": "faq",
+    "pair_id": "faq_cat7_ar",
+    "chars": 1987,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat7_ar",
+    "id": -7,
+    "title": "FAQ: General Questions About the New Mechanism for Expatriate Employees Employment from Outside the Kingdom of Bahrain",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/7",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "5 February 2025",
+    "kind": "faq",
+    "pair_id": "faq_cat7_en",
+    "chars": 1660,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat6_en",
+    "id": -6,
+    "title": "FAQ: General Questions for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/6",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "25 July 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat6_ar",
+    "chars": 7932,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat6_ar",
+    "id": -6,
+    "title": "FAQ: General Questions for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/6",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "25 July 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat6_en",
+    "chars": 6619,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat5_en",
+    "id": -5,
+    "title": "FAQ: General Inquiries about Parallel Bahrainization System",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/5",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "16 January 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat5_ar",
+    "chars": 5260,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat5_ar",
+    "id": -5,
+    "title": "FAQ: General Inquiries about Parallel Bahrainization System",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/5",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "16 January 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat5_en",
+    "chars": 3997,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat4_en",
+    "id": -4,
+    "title": "FAQ: General Questions by Employers",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/4",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "6 November 2023",
+    "kind": "faq",
+    "pair_id": "faq_cat4_ar",
+    "chars": 9130,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat4_ar",
+    "id": -4,
+    "title": "FAQ: General Questions by Employers",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/4",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "6 November 2023",
+    "kind": "faq",
+    "pair_id": "faq_cat4_en",
+    "chars": 7806,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat1_en",
+    "id": -1,
+    "title": "FAQ: General Questions by Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/faq/category/1",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "6 October 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat1_ar",
+    "chars": 12096,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "faq_cat1_ar",
+    "id": -1,
+    "title": "FAQ: General Questions by Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/faq/category/1",
+    "service_groups": [
+      "FAQ"
+    ],
+    "last_update": "6 October 2024",
+    "kind": "faq",
+    "pair_id": "faq_cat1_en",
+    "chars": 10161,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "5_en",
+    "id": 5,
+    "title": "ACT NO. (19) (2006) WITH REGARD TO  THE REGULATION OF THE LABOUR MARKET",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/5",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "legal",
+    "pair_id": "5_ar",
+    "chars": 72,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "5_ar",
+    "id": 5,
+    "title": "ACT NO. (19) (2006) WITH REGARD TO  THE REGULATION OF THE LABOUR MARKET",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/5",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "22-01-2025",
+    "kind": "legal",
+    "pair_id": "5_en",
+    "chars": 325,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.036
+  },
+  {
+    "doc_id": "106_en",
+    "id": 106,
+    "title": "New Work Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/106",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "106_ar",
+    "chars": 7000,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "106_ar",
+    "id": 106,
+    "title": "New Work Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/106",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "106_en",
+    "chars": 6557,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "120_en",
+    "id": 120,
+    "title": "Work Permit Renewal",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/120",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "120_ar",
+    "chars": 3757,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "120_ar",
+    "id": 120,
+    "title": "Work Permit Renewal",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/120",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "120_en",
+    "chars": 3761,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "130_en",
+    "id": 130,
+    "title": "New Establishment Registration",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/130",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "130_ar",
+    "chars": 5588,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "130_ar",
+    "id": 130,
+    "title": "New Establishment Registration",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/130",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "130_en",
+    "chars": 4948,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "133_en",
+    "id": 133,
+    "title": "Fees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/133",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "133_ar",
+    "chars": 2767,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "133_ar",
+    "id": 133,
+    "title": "Fees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/133",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "133_en",
+    "chars": 2634,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "151_en",
+    "id": 151,
+    "title": "Contractual Obligations of Employer and Expatriate Employee",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/151",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "151_ar",
+    "chars": 205,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "151_ar",
+    "id": 151,
+    "title": "Contractual Obligations of Employer and Expatriate Employee",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/151",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "151_en",
+    "chars": 634,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.064
+  },
+  {
+    "doc_id": "152_en",
+    "id": 152,
+    "title": "Contractual Obligations of Expatriate Employee and Employer",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/152",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "152_ar",
+    "chars": 205,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "152_ar",
+    "id": 152,
+    "title": "Contractual Obligations of Expatriate Employee and Employer",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/152",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "152_en",
+    "chars": 633,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.064
+  },
+  {
+    "doc_id": "169_en",
+    "id": 169,
+    "title": "Intention to Transfer",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/169",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "169_ar",
+    "chars": 1740,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "169_ar",
+    "id": 169,
+    "title": "Intention to Transfer",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/169",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "169_en",
+    "chars": 1940,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "178_en",
+    "id": 178,
+    "title": "Requirements to Apply for Work Permits if  CR Branches are Merged or Activities have Changed",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/178",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "178_ar",
+    "chars": 2972,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "178_ar",
+    "id": 178,
+    "title": "Requirements to Apply for Work Permits if  CR Branches are Merged or Activities have Changed",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/178",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "178_en",
+    "chars": 3160,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "180_en",
+    "id": 180,
+    "title": "Transfer Of Ownership Of Commercial Registrations",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/180",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "180_ar",
+    "chars": 4026,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "180_ar",
+    "id": 180,
+    "title": "Transfer Of Ownership Of Commercial Registrations",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/180",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "16-07-2025",
+    "kind": "leaf",
+    "pair_id": "180_en",
+    "chars": 3483,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "181_en",
+    "id": 181,
+    "title": "Workload",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/181",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "181_ar",
+    "chars": 5621,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "181_ar",
+    "id": 181,
+    "title": "Workload",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/181",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "181_en",
+    "chars": 5483,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "187_en",
+    "id": 187,
+    "title": "Expatriate and Domestic Employees Biometric Data Enrollment with LMRA",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/187",
+    "service_groups": [
+      "Establishment Employer",
+      "Domestic Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "187_ar",
+    "chars": 2607,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "187_ar",
+    "id": 187,
+    "title": "Expatriate and Domestic Employees Biometric Data Enrollment with LMRA",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/187",
+    "service_groups": [
+      "Establishment Employer",
+      "Domestic Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "187_en",
+    "chars": 2605,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "188_en",
+    "id": 188,
+    "title": "Expatriate Employee Absence from Work Notification",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/188",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "188_ar",
+    "chars": 7001,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "188_ar",
+    "id": 188,
+    "title": "Expatriate Employee Absence from Work Notification",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/188",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "188_en",
+    "chars": 6156,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "192_en",
+    "id": 192,
+    "title": "Administrative Notices Removal Mechanism",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/192",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "192_ar",
+    "chars": 2647,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "192_ar",
+    "id": 192,
+    "title": "Administrative Notices Removal Mechanism",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/192",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "192_en",
+    "chars": 2678,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "193_en",
+    "id": 193,
+    "title": "Bahrainization Calculator",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/193",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "20-06-2026",
+    "kind": "leaf",
+    "pair_id": "193_ar",
+    "chars": 757,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "193_ar",
+    "id": 193,
+    "title": "Bahrainization Calculator",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/193",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "20-06-2026",
+    "kind": "leaf",
+    "pair_id": "193_en",
+    "chars": 1143,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "194_en",
+    "id": 194,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/194",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "18-01-2026",
+    "kind": "leaf",
+    "pair_id": "194_ar",
+    "chars": 8029,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "194_ar",
+    "id": 194,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/194",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "18-01-2026",
+    "kind": "leaf",
+    "pair_id": "194_en",
+    "chars": 7082,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "195_en",
+    "id": 195,
+    "title": "Work Permits Ceiling Increase",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/195",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "195_ar",
+    "chars": 3378,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "195_ar",
+    "id": 195,
+    "title": "Work Permits Ceiling Increase",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/195",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "195_en",
+    "chars": 3347,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "198_en",
+    "id": 198,
+    "title": "Images Resizing",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/198",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "198_ar",
+    "chars": 766,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "198_ar",
+    "id": 198,
+    "title": "Images Resizing",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/198",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "198_en",
+    "chars": 1132,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "199_en",
+    "id": 199,
+    "title": "Labour Law",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/199",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "legal",
+    "pair_id": "199_ar",
+    "chars": 1042,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "199_ar",
+    "id": 199,
+    "title": "Labour Law",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/199",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "22-01-2025",
+    "kind": "legal",
+    "pair_id": "199_en",
+    "chars": 1020,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "203_en",
+    "id": 203,
+    "title": "Medical Examination for Expatriate Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/203",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "203_ar",
+    "chars": 5747,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "203_ar",
+    "id": 203,
+    "title": "Medical Examination for Expatriate Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/203",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "203_en",
+    "chars": 6193,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "212_en",
+    "id": 212,
+    "title": "Payment Methods",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/212",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "26-11-2025",
+    "kind": "leaf",
+    "pair_id": "212_ar",
+    "chars": 1451,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "212_ar",
+    "id": 212,
+    "title": "Payment Methods",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/212",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "26-11-2025",
+    "kind": "leaf",
+    "pair_id": "212_en",
+    "chars": 1739,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "221_en",
+    "id": 221,
+    "title": "Legislations",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/221",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "legislations",
+    "pair_id": "221_ar",
+    "chars": 894,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "221_ar",
+    "id": 221,
+    "title": "Legislations",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/221",
+    "service_groups": [
+      "Legal"
+    ],
+    "last_update": "25-06-2025",
+    "kind": "legislations",
+    "pair_id": "221_en",
+    "chars": 1102,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "318_en",
+    "id": 318,
+    "title": "List of (Manpower) Employment Offices",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/318",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "318_ar",
+    "chars": 793,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "318_ar",
+    "id": 318,
+    "title": "List of (Manpower) Employment Offices",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/318",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "318_en",
+    "chars": 1014,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "323_en",
+    "id": 323,
+    "title": "Appointment Management System",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/323",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "323_ar",
+    "chars": 435,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "323_ar",
+    "id": 323,
+    "title": "Appointment Management System",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/323",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "323_en",
+    "chars": 754,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "328_en",
+    "id": 328,
+    "title": "Tripartite Domestic Employee Contract",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/328",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "328_ar",
+    "chars": 362,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "328_ar",
+    "id": 328,
+    "title": "Tripartite Domestic Employee Contract",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/328",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "328_en",
+    "chars": 720,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "335_en",
+    "id": 335,
+    "title": "National Employment Program",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/335",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "335_ar",
+    "chars": 1498,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "335_ar",
+    "id": 335,
+    "title": "National Employment Program",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/335",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "335_en",
+    "chars": 1995,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "337_en",
+    "id": 337,
+    "title": "Wafid",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/337",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee",
+      "General Services"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "337_ar",
+    "chars": 333,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "337_ar",
+    "id": 337,
+    "title": "Wafid",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/337",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee",
+      "General Services"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "337_en",
+    "chars": 617,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "338_en",
+    "id": 338,
+    "title": "List of Manpower Agencies (Supplying Domestic Employees)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/338",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "338_ar",
+    "chars": 697,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "338_ar",
+    "id": 338,
+    "title": "List of Manpower Agencies (Supplying Domestic Employees)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/338",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "338_en",
+    "chars": 1034,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "340_en",
+    "id": 340,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/340",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "340_ar",
+    "chars": 168,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "340_ar",
+    "id": 340,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/340",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "340_en",
+    "chars": 592,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "418_en",
+    "id": 418,
+    "title": "The Optional Insurance System for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/418",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "418_ar",
+    "chars": 4095,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "418_ar",
+    "id": 418,
+    "title": "The Optional Insurance System for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/418",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "10-04-2025",
+    "kind": "leaf",
+    "pair_id": "418_en",
+    "chars": 3476,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "423_en",
+    "id": 423,
+    "title": "List of Approved Labour Registration Centres",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/423",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "15-02-2026",
+    "kind": "leaf",
+    "pair_id": "423_ar",
+    "chars": 5444,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "423_ar",
+    "id": 423,
+    "title": "List of Approved Labour Registration Centres",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/423",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "15-02-2026",
+    "kind": "leaf",
+    "pair_id": "423_en",
+    "chars": 5663,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "425_en",
+    "id": 425,
+    "title": "Obtaining the Activity of Labour Registration Centre",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/425",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "425_ar",
+    "chars": 3554,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "425_ar",
+    "id": 425,
+    "title": "Obtaining the Activity of Labour Registration Centre",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/425",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "31-07-2025",
+    "kind": "leaf",
+    "pair_id": "425_en",
+    "chars": 3259,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "427_en",
+    "id": 427,
+    "title": "Worker Registration Mechanism in Labour Registration Centres",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/427",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "427_ar",
+    "chars": 4224,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "427_ar",
+    "id": 427,
+    "title": "Worker Registration Mechanism in Labour Registration Centres",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/427",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "427_en",
+    "chars": 4117,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "430_en",
+    "id": 430,
+    "title": "Decisions Issued with Regards to Apply Labour Registration Program",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/430",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "430_ar",
+    "chars": 10115,
+    "content_language": "ar",
+    "redundant_with_pair": true,
+    "pair_similarity": 0.933
+  },
+  {
+    "doc_id": "430_ar",
+    "id": 430,
+    "title": "Decisions Issued with Regards to Apply Labour Registration Program",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/430",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "430_en",
+    "chars": 10476,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "431_en",
+    "id": 431,
+    "title": "Service Agreements Portal",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/431",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "431_ar",
+    "chars": 911,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "431_ar",
+    "id": 431,
+    "title": "Service Agreements Portal",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/431",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "431_en",
+    "chars": 1276,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.137
+  },
+  {
+    "doc_id": "435_en",
+    "id": 435,
+    "title": "Issuing New Work Permit for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/435",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "435_ar",
+    "chars": 12944,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "435_ar",
+    "id": 435,
+    "title": "Issuing New Work Permit for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/435",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "435_en",
+    "chars": 12720,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "438_en",
+    "id": 438,
+    "title": "Application Forms",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/438",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "17-06-2026",
+    "kind": "leaf",
+    "pair_id": "438_ar",
+    "chars": 2162,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "438_ar",
+    "id": 438,
+    "title": "Application Forms",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/438",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "17-06-2026",
+    "kind": "leaf",
+    "pair_id": "438_en",
+    "chars": 2537,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.106
+  },
+  {
+    "doc_id": "439_en",
+    "id": 439,
+    "title": "Medical Examination for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/439",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "16-04-2026",
+    "kind": "leaf",
+    "pair_id": "439_ar",
+    "chars": 4818,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "439_ar",
+    "id": 439,
+    "title": "Medical Examination for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/439",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "16-04-2026",
+    "kind": "leaf",
+    "pair_id": "439_en",
+    "chars": 5543,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "449_en",
+    "id": 449,
+    "title": "Renewing the Domestic Employee Work Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/449",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "449_ar",
+    "chars": 7214,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "449_ar",
+    "id": 449,
+    "title": "Renewing the Domestic Employee Work Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/449",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "449_en",
+    "chars": 6602,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "471_en",
+    "id": 471,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/471",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "471_ar",
+    "chars": 2135,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "471_ar",
+    "id": 471,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/471",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "23-01-2025",
+    "kind": "leaf",
+    "pair_id": "471_en",
+    "chars": 2719,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "472_en",
+    "id": 472,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/472",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "472_ar",
+    "chars": 1318,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "472_ar",
+    "id": 472,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/472",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "472_en",
+    "chars": 1629,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "474_en",
+    "id": 474,
+    "title": "Medical Examination Rescheduling Service for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/474",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "26-10-2025",
+    "kind": "leaf",
+    "pair_id": "474_ar",
+    "chars": 3126,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "474_ar",
+    "id": 474,
+    "title": "Medical Examination Rescheduling Service for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/474",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "26-10-2025",
+    "kind": "leaf",
+    "pair_id": "474_en",
+    "chars": 3486,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.011
+  },
+  {
+    "doc_id": "475_en",
+    "id": 475,
+    "title": "Domestic Employee Change of Occupation",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/475",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "475_ar",
+    "chars": 5435,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "475_ar",
+    "id": 475,
+    "title": "Domestic Employee Change of Occupation",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/475",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "475_en",
+    "chars": 4984,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "476_en",
+    "id": 476,
+    "title": "Domestic Employee Absence from Work Notification",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/476",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "476_ar",
+    "chars": 3865,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "476_ar",
+    "id": 476,
+    "title": "Domestic Employee Absence from Work Notification",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/476",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "476_en",
+    "chars": 3727,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "478_en",
+    "id": 478,
+    "title": "Domestic Employee Work Permit Cancellation",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/478",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "478_ar",
+    "chars": 4134,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "478_ar",
+    "id": 478,
+    "title": "Domestic Employee Work Permit Cancellation",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/478",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "478_en",
+    "chars": 3873,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "484_en",
+    "id": 484,
+    "title": "Issuing a Permanent Ceiling for Domestic Employees",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/484",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "484_ar",
+    "chars": 810,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "484_ar",
+    "id": 484,
+    "title": "Issuing a Permanent Ceiling for Domestic Employees",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/484",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "484_en",
+    "chars": 988,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "503_en",
+    "id": 503,
+    "title": "Work Permit Renewal (Commercial Sector) - Remote Service",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/503",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "04-04-2026",
+    "kind": "leaf",
+    "pair_id": "503_ar",
+    "chars": 3336,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "503_ar",
+    "id": 503,
+    "title": "Work Permit Renewal (Commercial Sector) - Remote Service",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/503",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "04-04-2026",
+    "kind": "leaf",
+    "pair_id": "503_en",
+    "chars": 3934,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "514_en",
+    "id": 514,
+    "title": "Grievance Against the Absence from Work During the Verification Period (7 Days)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/514",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "10-06-2026",
+    "kind": "leaf",
+    "pair_id": "514_ar",
+    "chars": 2044,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "514_ar",
+    "id": 514,
+    "title": "Grievance Against the Absence from Work During the Verification Period (7 Days)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/514",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "10-06-2026",
+    "kind": "leaf",
+    "pair_id": "514_en",
+    "chars": 2160,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "517_en",
+    "id": 517,
+    "title": "New Work Approval for Dependants",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/517",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "517_ar",
+    "chars": 5832,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "517_ar",
+    "id": 517,
+    "title": "New Work Approval for Dependants",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/517",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-06-2026",
+    "kind": "leaf",
+    "pair_id": "517_en",
+    "chars": 5159,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "521_en",
+    "id": 521,
+    "title": "Executive Service",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/521",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "521_ar",
+    "chars": 1379,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "521_ar",
+    "id": 521,
+    "title": "Executive Service",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/521",
+    "service_groups": [
+      "General Services"
+    ],
+    "last_update": "26-04-2026",
+    "kind": "leaf",
+    "pair_id": "521_en",
+    "chars": 1554,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "524_en",
+    "id": 524,
+    "title": "Issuance of an Employment Office License",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/524",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "07-06-2026",
+    "kind": "leaf",
+    "pair_id": "524_ar",
+    "chars": 4837,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "524_ar",
+    "id": 524,
+    "title": "Issuance of an Employment Office License",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/524",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "07-06-2026",
+    "kind": "leaf",
+    "pair_id": "524_en",
+    "chars": 4080,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "527_en",
+    "id": 527,
+    "title": "Complaint Against Employment Office",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/527",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "16-04-2026",
+    "kind": "leaf",
+    "pair_id": "527_ar",
+    "chars": 4162,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "527_ar",
+    "id": 527,
+    "title": "Complaint Against Employment Office",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/527",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "16-04-2026",
+    "kind": "leaf",
+    "pair_id": "527_en",
+    "chars": 3881,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "529_en",
+    "id": 529,
+    "title": "Issuance of a Manpower Supply Agency License",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/529",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "07-06-2026",
+    "kind": "leaf",
+    "pair_id": "529_ar",
+    "chars": 6996,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "529_ar",
+    "id": 529,
+    "title": "Issuance of a Manpower Supply Agency License",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/529",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "last_update": "07-06-2026",
+    "kind": "leaf",
+    "pair_id": "529_en",
+    "chars": 5527,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "533_en",
+    "id": 533,
+    "title": "Adding an Authorized Person",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/533",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "533_ar",
+    "chars": 4189,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "533_ar",
+    "id": 533,
+    "title": "Adding an Authorized Person",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/533",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "533_en",
+    "chars": 3582,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "536_en",
+    "id": 536,
+    "title": "Change of Occupation",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/536",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "536_ar",
+    "chars": 3427,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "536_ar",
+    "id": 536,
+    "title": "Change of Occupation",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/536",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "536_en",
+    "chars": 3575,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "537_en",
+    "id": 537,
+    "title": "Un-intend to Transfer",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/537",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "537_ar",
+    "chars": 1328,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "537_ar",
+    "id": 537,
+    "title": "Un-intend to Transfer",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/537",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "19-04-2026",
+    "kind": "leaf",
+    "pair_id": "537_en",
+    "chars": 1631,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "539_en",
+    "id": 539,
+    "title": "Application for a New Work Permit for Golden Residency Holders",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/539",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "539_ar",
+    "chars": 6753,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "539_ar",
+    "id": 539,
+    "title": "Application for a New Work Permit for Golden Residency Holders",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/539",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "539_en",
+    "chars": 6330,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "540_en",
+    "id": 540,
+    "title": "Renewal of the Work Permit for Golden Residency Holders",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/540",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "540_ar",
+    "chars": 4665,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "540_ar",
+    "id": 540,
+    "title": "Renewal of the Work Permit for Golden Residency Holders",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/540",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "540_en",
+    "chars": 4611,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "542_en",
+    "id": 542,
+    "title": "Change of Occupation for Golden Residency Holders",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/542",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "542_ar",
+    "chars": 3685,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "542_ar",
+    "id": 542,
+    "title": "Change of Occupation for Golden Residency Holders",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/542",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "542_en",
+    "chars": 3642,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "544_en",
+    "id": 544,
+    "title": "New Work Permit for Expatriates Authorized to Reside in the Kingdom of Bahrain",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/544",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "544_ar",
+    "chars": 4779,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "544_ar",
+    "id": 544,
+    "title": "New Work Permit for Expatriates Authorized to Reside in the Kingdom of Bahrain",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/544",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "544_en",
+    "chars": 4248,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "549_en",
+    "id": 549,
+    "title": "Apply for a Registered Worker Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/549",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "16-06-2026",
+    "kind": "leaf",
+    "pair_id": "549_ar",
+    "chars": 5354,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "549_ar",
+    "id": 549,
+    "title": "Apply for a Registered Worker Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/549",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "16-06-2026",
+    "kind": "leaf",
+    "pair_id": "549_en",
+    "chars": 4892,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "550_en",
+    "id": 550,
+    "title": "Renewal of the Registered Worker Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/550",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "550_ar",
+    "chars": 2753,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "550_ar",
+    "id": 550,
+    "title": "Renewal of the Registered Worker Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/550",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "01-01-2026",
+    "kind": "leaf",
+    "pair_id": "550_en",
+    "chars": 2830,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "551_en",
+    "id": 551,
+    "title": "Termination of the Registered Worker Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/551",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "551_ar",
+    "chars": 2450,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "551_ar",
+    "id": 551,
+    "title": "Termination of the Registered Worker Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/551",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "551_en",
+    "chars": 2544,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "552_en",
+    "id": 552,
+    "title": "Changing the Occupation of the Registered Worker",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/552",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "552_ar",
+    "chars": 2451,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "552_ar",
+    "id": 552,
+    "title": "Changing the Occupation of the Registered Worker",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/552",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "552_en",
+    "chars": 2438,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "553_en",
+    "id": 553,
+    "title": "Updating the Employer and the Establishments Details at LMRA",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/553",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "553_ar",
+    "chars": 3424,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "553_ar",
+    "id": 553,
+    "title": "Updating the Employer and the Establishments Details at LMRA",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/553",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "553_en",
+    "chars": 3362,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "565_en",
+    "id": 565,
+    "title": "Dependants Residency Permit (Wife/Husband)",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/565",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "565_ar",
+    "chars": 5117,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "565_ar",
+    "id": 565,
+    "title": "Dependants Residency Permit (Wife/Husband)",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/565",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "565_en",
+    "chars": 4985,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "567_en",
+    "id": 567,
+    "title": "Cancellation of an Expired Work Permit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/567",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "567_ar",
+    "chars": 1713,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "567_ar",
+    "id": 567,
+    "title": "Cancellation of an Expired Work Permit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/567",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "567_en",
+    "chars": 1937,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "568_en",
+    "id": 568,
+    "title": "Cancellation of an In-Progress Application",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/568",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "568_ar",
+    "chars": 1215,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "568_ar",
+    "id": 568,
+    "title": "Cancellation of an In-Progress Application",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/568",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "24-04-2025",
+    "kind": "leaf",
+    "pair_id": "568_en",
+    "chars": 1567,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "571_en",
+    "id": 571,
+    "title": "List of Cancelled Employment Offices",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/571",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "571_ar",
+    "chars": 2050,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "571_ar",
+    "id": 571,
+    "title": "List of Cancelled Employment Offices",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/571",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "07-10-2025",
+    "kind": "leaf",
+    "pair_id": "571_en",
+    "chars": 2236,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "573_en",
+    "id": 573,
+    "title": "Work Permit Cancellation and Expatriate Employee Deportation",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/573",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "573_ar",
+    "chars": 3772,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "573_ar",
+    "id": 573,
+    "title": "Work Permit Cancellation and Expatriate Employee Deportation",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/573",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "573_en",
+    "chars": 3550,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "576_en",
+    "id": 576,
+    "title": "Viewing Administrative Offences for Domestic Employers",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/576",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "576_ar",
+    "chars": 1474,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "576_ar",
+    "id": 576,
+    "title": "Viewing Administrative Offences for Domestic Employers",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/576",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "30-04-2026",
+    "kind": "leaf",
+    "pair_id": "576_en",
+    "chars": 1836,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "584_en",
+    "id": 584,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/584",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "584_ar",
+    "chars": 985,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "584_ar",
+    "id": 584,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/584",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "25-06-2025",
+    "kind": "leaf",
+    "pair_id": "584_en",
+    "chars": 1285,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "596_en",
+    "id": 596,
+    "title": "Expatriate Employee Multi-Languages Guide",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/596",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "596_ar",
+    "chars": 1717,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "596_ar",
+    "id": 596,
+    "title": "Expatriate Employee Multi-Languages Guide",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/596",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "17-03-2025",
+    "kind": "leaf",
+    "pair_id": "596_en",
+    "chars": 2059,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.241
+  },
+  {
+    "doc_id": "598_en",
+    "id": 598,
+    "title": "Multi-Languages List of Approved Labour Registration Centres",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/598",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "15-02-2026",
+    "kind": "leaf",
+    "pair_id": "598_ar",
+    "chars": 553,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "598_ar",
+    "id": 598,
+    "title": "Multi-Languages List of Approved Labour Registration Centres",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/598",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "last_update": "15-02-2026",
+    "kind": "leaf",
+    "pair_id": "598_en",
+    "chars": 946,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.149
+  },
+  {
+    "doc_id": "607_en",
+    "id": 607,
+    "title": "Expatriate Employee Deportation Deposit",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/607",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-04-2026",
+    "kind": "leaf",
+    "pair_id": "607_ar",
+    "chars": 1462,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "607_ar",
+    "id": 607,
+    "title": "Expatriate Employee Deportation Deposit",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/607",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "18-04-2026",
+    "kind": "leaf",
+    "pair_id": "607_en",
+    "chars": 1926,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "619_en",
+    "id": 619,
+    "title": "Activate Your IBAN Guides",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/619",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "07-12-2025",
+    "kind": "leaf",
+    "pair_id": "619_ar",
+    "chars": 347,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "619_ar",
+    "id": 619,
+    "title": "Activate Your IBAN Guides",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/619",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "07-12-2025",
+    "kind": "leaf",
+    "pair_id": "619_en",
+    "chars": 793,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.183
+  },
+  {
+    "doc_id": "626_en",
+    "id": 626,
+    "title": "Domestic Deposit Refund",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/626",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "14-10-2025",
+    "kind": "leaf",
+    "pair_id": "626_ar",
+    "chars": 1339,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "626_ar",
+    "id": 626,
+    "title": "Domestic Deposit Refund",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/626",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "25-05-2025",
+    "kind": "leaf",
+    "pair_id": "626_en",
+    "chars": 1868,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "631_en",
+    "id": 631,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/631",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-06-2026",
+    "kind": "leaf",
+    "pair_id": "631_ar",
+    "chars": 1855,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "631_ar",
+    "id": 631,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/631",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "last_update": "14-06-2026",
+    "kind": "leaf",
+    "pair_id": "631_en",
+    "chars": 1752,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "651_en",
+    "id": 651,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/651",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "26-10-2025",
+    "kind": "leaf",
+    "pair_id": "651_ar",
+    "chars": 2707,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "651_ar",
+    "id": 651,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/651",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "last_update": "26-10-2025",
+    "kind": "leaf",
+    "pair_id": "651_en",
+    "chars": 3071,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.011
+  },
+  {
+    "doc_id": "664_en",
+    "id": 664,
+    "title": "Documents",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/664",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "17-02-2026",
+    "kind": "leaf",
+    "pair_id": "664_ar",
+    "chars": 289,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "664_ar",
+    "id": 664,
+    "title": "Documents",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/664",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "17-02-2026",
+    "kind": "leaf",
+    "pair_id": "664_en",
+    "chars": 760,
+    "content_language": "en",
+    "redundant_with_pair": false,
+    "pair_similarity": 0.067
+  },
+  {
+    "doc_id": "678_en",
+    "id": 678,
+    "title": "Details",
+    "language": "en",
+    "source_url": "https://lmra.gov.bh/en/page/show/678",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "20-06-2026",
+    "kind": "leaf",
+    "pair_id": "678_ar",
+    "chars": 2170,
+    "content_language": "en",
+    "redundant_with_pair": false
+  },
+  {
+    "doc_id": "678_ar",
+    "id": 678,
+    "title": "Details",
+    "language": "ar",
+    "source_url": "https://lmra.gov.bh/ar/page/show/678",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "last_update": "20-06-2026",
+    "kind": "leaf",
+    "pair_id": "678_en",
+    "chars": 2326,
+    "content_language": "ar",
+    "redundant_with_pair": false
+  }
+]

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LMRA Assistant — بالعربية والإنجليزية</title>
+<!-- Single-file React on purpose: zero build step, one command to demo.
+     The interesting engineering lives in the pipeline, not the toolchain. -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+<style>
+  :root {
+    --accent: #0b6e4f;         /* LMRA-ish green */
+    --accent-soft: #e7f3ee;
+    --amber: #92600a;
+    --amber-soft: #fdf3e0;
+    --border: #e3e6e3;
+    --text: #1e2422;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: #f7f8f7; color: var(--text);
+    font-family: -apple-system, "Segoe UI", Roboto, "Noto Sans Arabic", sans-serif;
+  }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 16px 140px; }
+  header { padding: 28px 0 10px; border-bottom: 2px solid var(--accent); margin-bottom: 20px; }
+  header h1 { font-size: 20px; margin: 0; color: var(--accent); }
+  header p { margin: 6px 0 0; font-size: 13px; color: #5a625e; }
+  .msg { margin: 14px 0; display: flex; }
+  .msg.user { justify-content: flex-end; }
+  .bubble {
+    max-width: 88%; padding: 12px 16px; border-radius: 12px;
+    line-height: 1.55; font-size: 15px; overflow-wrap: break-word;
+  }
+  .user .bubble { background: var(--accent); color: #fff; border-bottom-right-radius: 4px; }
+  .bot .bubble { background: #fff; border: 1px solid var(--border); border-bottom-left-radius: 4px; }
+  .bot .bubble.abstained { background: var(--amber-soft); border-color: #ecd9b0; color: var(--amber); }
+  .bubble :is(h1,h2,h3) { font-size: 15px; margin: 10px 0 4px; }
+  .bubble table { border-collapse: collapse; margin: 8px 0; font-size: 13px; }
+  .bubble td, .bubble th { border: 1px solid var(--border); padding: 4px 8px; }
+  .bubble a { color: var(--accent); }
+  .sources { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--border); font-size: 13px; }
+  .sources .label { font-weight: 600; color: #5a625e; margin-bottom: 4px; }
+  .src { display: flex; gap: 6px; align-items: baseline; margin: 3px 0; }
+  .badge {
+    font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 8px;
+    background: var(--accent-soft); color: var(--accent); flex-shrink: 0;
+  }
+  .badge.ar { background: #eee9fb; color: #5b3fa8; }
+  .meta { font-size: 11px; color: #97a09b; margin-top: 6px; }
+  form {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(transparent, #f7f8f7 30%); padding: 24px 16px 22px;
+  }
+  .inputrow {
+    max-width: 780px; margin: 0 auto; display: flex; gap: 8px;
+    background: #fff; border: 1px solid var(--border); border-radius: 14px;
+    padding: 8px; box-shadow: 0 4px 20px rgba(0,0,0,.06);
+  }
+  input[type=text] {
+    flex: 1; border: 0; outline: none; font-size: 15px; padding: 8px;
+    background: transparent; font-family: inherit;
+  }
+  button {
+    background: var(--accent); color: #fff; border: 0; border-radius: 10px;
+    padding: 8px 20px; font-size: 15px; cursor: pointer;
+  }
+  button:disabled { opacity: .5; cursor: default; }
+  .hint { max-width: 780px; margin: 8px auto 0; font-size: 12px; color: #97a09b; text-align: center; }
+  .dots::after { content: "…"; animation: blink 1.2s infinite; }
+  @keyframes blink { 50% { opacity: .3; } }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useRef, useEffect } = React;
+
+// Answers arrive as markdown (tables, lists, headings) — render + sanitize.
+function md(text) {
+  return { __html: DOMPurify.sanitize(marked.parse(text)) };
+}
+
+function Sources({ sources }) {
+  if (!sources || sources.length === 0) return null;
+  return (
+    <div className="sources">
+      <div className="label">Sources · المصادر</div>
+      {sources.map(s => (
+        <div className="src" key={s.n + s.url}>
+          <span className={"badge " + s.language}>{s.language.toUpperCase()}</span>
+          {/* dir=auto: Arabic section titles render RTL inside an LTR list */}
+          <a href={s.url} target="_blank" rel="noreferrer" dir="auto">
+            [{s.n}] {s.section}
+          </a>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function Message({ m }) {
+  if (m.role === "user") {
+    return (
+      <div className="msg user">
+        <div className="bubble" dir="auto">{m.text}</div>
+      </div>
+    );
+  }
+  return (
+    <div className="msg bot">
+      <div className={"bubble" + (m.abstained ? " abstained" : "")}>
+        {m.pending
+          ? <span className="dots">Searching LMRA content · جارٍ البحث</span>
+          : <div dir="auto" dangerouslySetInnerHTML={md(m.text)} />}
+        {!m.pending && <Sources sources={m.sources} />}
+        {!m.pending && !m.abstained && m.top_score != null &&
+          <div className="meta">retrieval score {m.top_score}</div>}
+      </div>
+    </div>
+  );
+}
+
+function App() {
+  const [messages, setMessages] = useState([]);
+  const [input, setInput] = useState("");
+  const [busy, setBusy] = useState(false);
+  const endRef = useRef(null);
+
+  useEffect(() => endRef.current?.scrollIntoView({ behavior: "smooth" }), [messages]);
+
+  async function send(e) {
+    e.preventDefault();
+    const q = input.trim();
+    if (!q || busy) return;
+    setInput("");
+    setBusy(true);
+    setMessages(ms => [...ms, { role: "user", text: q }, { role: "bot", pending: true }]);
+    try {
+      const r = await fetch("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question: q }),
+      });
+      const data = await r.json();
+      setMessages(ms => [...ms.slice(0, -1), { role: "bot", ...data, text: data.answer }]);
+    } catch (err) {
+      setMessages(ms => [...ms.slice(0, -1), {
+        role: "bot", abstained: true, sources: [],
+        text: "Request failed — is the API server running? · فشل الطلب",
+      }]);
+    }
+    setBusy(false);
+  }
+
+  return (
+    <div className="wrap">
+      <header>
+        <h1>LMRA Assistant · مساعد هيئة تنظيم سوق العمل</h1>
+        <p>
+          Ask about work permits, fees, and procedures — in English or Arabic.
+          Answers cite official LMRA pages; when the content doesn't cover a
+          question, the assistant says so instead of guessing.
+        </p>
+      </header>
+      {messages.map((m, i) => <Message key={i} m={m} />)}
+      <div ref={endRef} />
+      <form onSubmit={send}>
+        <div className="inputrow">
+          <input type="text" dir="auto" value={input} disabled={busy}
+                 placeholder="e.g. How much is a domestic worker permit? · كم رسوم تصريح العمل؟"
+                 onChange={e => setInput(e.target.value)} autoFocus />
+          <button disabled={busy || !input.trim()}>Send</button>
+        </div>
+        <div className="hint">Unofficial demo over public lmra.gov.bh content — verify with LMRA before acting.</div>
+      </form>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+# environments & secrets
+.venv/
+venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# regenerable artifacts (rebuild with pipeline/embed.py)
+data/index/
+
+# eval run outputs (report.md IS committed; raw per-run results are not)
+eval/results.jsonl
+
+# OS / editor
+.DS_Store
+.vscode/

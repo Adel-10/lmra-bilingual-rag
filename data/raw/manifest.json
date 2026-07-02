@@ -1,0 +1,3132 @@
+[
+  {
+    "id": -1121,
+    "slug": "law_121",
+    "title": "قرار رقم (121) لسنة 2007 بشأن تأشيرة دخول ورخصة إقامة أفراد عائلة العامل وصاحب العمل الأجنبي (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/121",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/121",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_121_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/121"
+      },
+      "ar": {
+        "file": "data/raw/html/law_121_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/121"
+      }
+    }
+  },
+  {
+    "id": -1120,
+    "slug": "law_120",
+    "title": "قرار رقم (74) لسنة 2007 بشأن منح رخصة إقامة للأجانب بالكفالة الشخصية (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/120",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/120",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_120_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/120"
+      },
+      "ar": {
+        "file": "data/raw/html/law_120_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/120"
+      }
+    }
+  },
+  {
+    "id": -1119,
+    "slug": "law_119",
+    "title": "مرسوم بقانون رقم (54) لسنة 2018 بإصدار قانون الخطابات والمعاملات الإلكترونية (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/119",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/119",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_119_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/119"
+      },
+      "ar": {
+        "file": "data/raw/html/law_119_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/119"
+      }
+    }
+  },
+  {
+    "id": -1118,
+    "slug": "law_118",
+    "title": "قانون رقم (60) لسنة 2014 بشأن جرائم تقنية المعلومات (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/118",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/118",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_118_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/118"
+      },
+      "ar": {
+        "file": "data/raw/html/law_118_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/118"
+      }
+    }
+  },
+  {
+    "id": -1117,
+    "slug": "law_117",
+    "title": "قانون رقم (16) لسنة 2014 بشأن حماية معلومات ووثائق الدولة (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/117",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/117",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_117_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/117"
+      },
+      "ar": {
+        "file": "data/raw/html/law_117_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/117"
+      }
+    }
+  },
+  {
+    "id": -1115,
+    "slug": "law_115",
+    "title": "مرسوم بقانون رقم (12) لسنة 2024 بتعديل المادة (40) من القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/115",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/115",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_115_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/115"
+      },
+      "ar": {
+        "file": "data/raw/html/law_115_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/115"
+      }
+    }
+  },
+  {
+    "id": -1114,
+    "slug": "law_114",
+    "title": "قرار رقم (1) لسنة 2014 بشأن تنظيم تراخيص مكاتب التوظيف",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/114",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/114",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_114_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/114"
+      },
+      "ar": {
+        "file": "data/raw/html/law_114_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/114"
+      }
+    }
+  },
+  {
+    "id": -1113,
+    "slug": "law_113",
+    "title": "Decree No. (75) of 2023 Appointment of Chief Executive Officer of the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/113",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/113",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_113_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/113"
+      },
+      "ar": {
+        "file": "data/raw/html/law_113_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/113"
+      }
+    }
+  },
+  {
+    "id": -1112,
+    "slug": "law_112",
+    "title": "قرار رقم (8) لسنة 2023 بشأن اعتماد الخطة الوطنية لسوق العمل للأعوام 2023- 2026 (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/112",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/112",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_112_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/112"
+      },
+      "ar": {
+        "file": "data/raw/html/law_112_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/112"
+      }
+    }
+  },
+  {
+    "id": -1111,
+    "slug": "law_111",
+    "title": "مرسوم رقم (13) لسنة 2023 بإعادة تنظيم هيئة تنظيم سوق العمل (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/111",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/111",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_111_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/111"
+      },
+      "ar": {
+        "file": "data/raw/html/law_111_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/111"
+      }
+    }
+  },
+  {
+    "id": -1110,
+    "slug": "law_110",
+    "title": "قرار رقم (178) لسنة 2022 بشأن توفيق أوضاع الإقامة للمتقدمين لإصدار تصريح مزاولة نشاط مهني (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/110",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/110",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_110_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/110"
+      },
+      "ar": {
+        "file": "data/raw/html/law_110_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/110"
+      }
+    }
+  },
+  {
+    "id": -1109,
+    "slug": "law_109",
+    "title": "قرار رقم (78) لسنة 2022 بشأن اعتماد نشاط مهني (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/109",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/109",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_109_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/109"
+      },
+      "ar": {
+        "file": "data/raw/html/law_109_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/109"
+      }
+    }
+  },
+  {
+    "id": -1107,
+    "slug": "law_107",
+    "title": "قرار رقم (1) لسنة 2022 بشأن إسناد بعض مهام هيئة تنظيم سوق العمل إلى مراكز تسجيل العمالة وتعديلاته (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/107",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/107",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_107_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/107"
+      },
+      "ar": {
+        "file": "data/raw/html/law_107_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/107"
+      }
+    }
+  },
+  {
+    "id": -1106,
+    "slug": "law_106",
+    "title": "مرسوم رقم (34) لسنة 2022 بتعيين رئيس تنفيذي لهيئة تنظيم سوق العمل (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/106",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/106",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_106_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/106"
+      },
+      "ar": {
+        "file": "data/raw/html/law_106_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/106"
+      }
+    }
+  },
+  {
+    "id": -1103,
+    "slug": "law_103",
+    "title": "قرار رقم (26) لسنة 2008 بشأن الرسوم المفروضة على أصحاب العمل  لاستخراج تصاريح العمل وتجديدها ورخص الإقامة لأفراد عائلة العامل وصاحب العمل الأجنبي وتعديلاته (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/103",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/103",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_103_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/103"
+      },
+      "ar": {
+        "file": "data/raw/html/law_103_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/103"
+      }
+    }
+  },
+  {
+    "id": -1102,
+    "slug": "law_102",
+    "title": "Resolution (23) for the Year 2021 Regarding Adding a Paragraph to the Second Article of Resolution (68) for the Year 2019 Regarding the Wages Protection Scheme",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/102",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/102",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_102_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/102"
+      },
+      "ar": {
+        "file": "data/raw/html/law_102_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/102"
+      }
+    }
+  },
+  {
+    "id": -1101,
+    "slug": "law_101",
+    "title": "Resolution (22) for the Year 2021 Regarding the Stages of Implementing the Wages Protection Scheme",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/101",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/101",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_101_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/101"
+      },
+      "ar": {
+        "file": "data/raw/html/law_101_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/101"
+      }
+    }
+  },
+  {
+    "id": -1100,
+    "slug": "law_100",
+    "title": "Order No. (28) of 2008 With Respect to Refund of Work Permits Fees, Reducing Fees for Change of  Profession Request and Imposing Fine on the Delay in the Payment Monthly Fee for a Foreign Worker",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/100",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/100",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_100_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/100"
+      },
+      "ar": {
+        "file": "data/raw/html/law_100_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/100"
+      }
+    }
+  },
+  {
+    "id": -1099,
+    "slug": "law_99",
+    "title": "Order No. (31) of 2014 With Respect to some of  Imposed charges at the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/99",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/99",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_99_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/99"
+      },
+      "ar": {
+        "file": "data/raw/html/law_99_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/99"
+      }
+    }
+  },
+  {
+    "id": -1098,
+    "slug": "law_98",
+    "title": "Resolution (27) for the year 2016 Regarding Some Fees imposed by the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/98",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/98",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_98_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/98"
+      },
+      "ar": {
+        "file": "data/raw/html/law_98_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/98"
+      }
+    }
+  },
+  {
+    "id": -1097,
+    "slug": "law_97",
+    "title": "Resolution No. (1) for the year 2017 Regarding Fees Imposed by the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/97",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/97",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_97_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/97"
+      },
+      "ar": {
+        "file": "data/raw/html/law_97_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/97"
+      }
+    }
+  },
+  {
+    "id": -1091,
+    "slug": "law_91",
+    "title": "Order No. (9) of 2007 With Regard  to Proving  Medical Fitness of Foreign Workers",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/91",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/91",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_91_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/91"
+      },
+      "ar": {
+        "file": "data/raw/html/law_91_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/91"
+      }
+    }
+  },
+  {
+    "id": -1089,
+    "slug": "law_89",
+    "title": "قرار رقم (122) لسنة 2007 بشأن ضوابط وإجراءات ترحيل أو نقل جثمان العامل الأجنبي (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/89",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/89",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_89_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/89"
+      },
+      "ar": {
+        "file": "data/raw/html/law_89_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/89"
+      }
+    }
+  },
+  {
+    "id": -1088,
+    "slug": "law_88",
+    "title": "Order No. (29) of 2014 With Regard to Specifying  and Regulating Basic Health Care for Workers of Corporations",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/88",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/88",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_88_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/88"
+      },
+      "ar": {
+        "file": "data/raw/html/law_88_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/88"
+      }
+    }
+  },
+  {
+    "id": -1087,
+    "slug": "law_87",
+    "title": "Resolution (6) for the year 2015 To Amend Some Provisions of Resolution (29) for the year 2014 Regarding the Specification and Organization of Basic Healthcare for Facility Workers",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/87",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/87",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_87_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/87"
+      },
+      "ar": {
+        "file": "data/raw/html/law_87_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/87"
+      }
+    }
+  },
+  {
+    "id": -1086,
+    "slug": "law_86",
+    "title": "(Arabic Only) قرار رقم (108) لسنة 2017 بشأن تصحيح أوضاع الإقامة للمتقدمين لإصدار تصريح صاحب عمل (عامل مرن)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/86",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/86",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_86_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/86"
+      },
+      "ar": {
+        "file": "data/raw/html/law_86_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/86"
+      }
+    }
+  },
+  {
+    "id": -1085,
+    "slug": "law_85",
+    "title": "Resolution (68) for the year 2019 Regarding the Wages Protection Scheme",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/85",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/85",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_85_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/85"
+      },
+      "ar": {
+        "file": "data/raw/html/law_85_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/85"
+      }
+    }
+  },
+  {
+    "id": -1084,
+    "slug": "law_84",
+    "title": "قرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة  (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/84",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/84",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_84_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/84"
+      },
+      "ar": {
+        "file": "data/raw/html/law_84_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/84"
+      }
+    }
+  },
+  {
+    "id": -1082,
+    "slug": "law_82",
+    "title": "قرار رقم (5) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/82",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/82",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_82_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/82"
+      },
+      "ar": {
+        "file": "data/raw/html/law_82_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/82"
+      }
+    }
+  },
+  {
+    "id": -1081,
+    "slug": "law_81",
+    "title": "قرار رقم (71) لسنة 2021 بتأجيل تاريخ العمل بالقرار رقم (15) لسنة 2020 بشأن تنظيم الفحص الطبي الدوري للعاملين في المحال الصناعية والتجارية ذات العلاقة بالصحة العامة (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/81",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/81",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_81_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/81"
+      },
+      "ar": {
+        "file": "data/raw/html/law_81_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/81"
+      }
+    }
+  },
+  {
+    "id": -1080,
+    "slug": "law_80",
+    "title": "قرار رقم (58) لسنة 2021 باعتماد الخطة الوطنية لسوق العمل (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/80",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/80",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_80_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/80"
+      },
+      "ar": {
+        "file": "data/raw/html/law_80_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/80"
+      }
+    }
+  },
+  {
+    "id": -1075,
+    "slug": "law_75",
+    "title": "Decree No. (51) of 2021 Regarding the Appointment of a Chief Executive Officer for the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/75",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/75",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_75_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/75"
+      },
+      "ar": {
+        "file": "data/raw/html/law_75_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/75"
+      }
+    }
+  },
+  {
+    "id": -1073,
+    "slug": "law_73",
+    "title": "Resolution (1) of 2019 Regarding the Implementation of the Wages Protection Scheme",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/73",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/73",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_73_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/73"
+      },
+      "ar": {
+        "file": "data/raw/html/law_73_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/73"
+      }
+    }
+  },
+  {
+    "id": -1066,
+    "slug": "law_66",
+    "title": "Decree (39) for the year 2019 Regarding the Organization of the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/66",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/66",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_66_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/66"
+      },
+      "ar": {
+        "file": "data/raw/html/law_66_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/66"
+      }
+    }
+  },
+  {
+    "id": -1065,
+    "slug": "law_65",
+    "title": "Decree (58) for the year 2019 Regarding the Appointment of Deputy CEOs in the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/65",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/65",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_65_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/65"
+      },
+      "ar": {
+        "file": "data/raw/html/law_65_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/65"
+      }
+    }
+  },
+  {
+    "id": -1045,
+    "slug": "law_45",
+    "title": "قرار رقم (3) لسنة 2014 بشأن تنظيم تراخيص وكالات توريد العمال وتعديلاته (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/45",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/45",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_45_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/45"
+      },
+      "ar": {
+        "file": "data/raw/html/law_45_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/45"
+      }
+    }
+  },
+  {
+    "id": -1044,
+    "slug": "law_44",
+    "title": "Order No. (4) of 2014 With regard to Regulation of Work Permits for Domestic Servants and Equivalent",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/44",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/44",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_44_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/44"
+      },
+      "ar": {
+        "file": "data/raw/html/law_44_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/44"
+      }
+    }
+  },
+  {
+    "id": -1043,
+    "slug": "law_43",
+    "title": "قرار رقم (2) لسنة 2014 بشأن تنظيم تصاريح مزاولة صاحب العمل الأجنبي للأنشطة المهنية وتعديلاته (Arabic Only)",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/43",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/43",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_43_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/43"
+      },
+      "ar": {
+        "file": "data/raw/html/law_43_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/43"
+      }
+    }
+  },
+  {
+    "id": -1037,
+    "slug": "law_37",
+    "title": "قرار رقم (74) لسنة 2007  بشأن التفتيش على الخاضعين لأحكام قانون تنظيم سوق العمل وتعديلاته",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/37",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/37",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_37_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/37"
+      },
+      "ar": {
+        "file": "data/raw/html/law_37_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/37"
+      }
+    }
+  },
+  {
+    "id": -1029,
+    "slug": "law_29",
+    "title": "Order No. (2) of 2013 With Regard to the Controls and Terms for Not Subjecting the Temporary Works of Foreign Works to the Provisions of  Labor Market Regulatory Authority Law",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/29",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/29",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_29_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/29"
+      },
+      "ar": {
+        "file": "data/raw/html/law_29_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/29"
+      }
+    }
+  },
+  {
+    "id": -1023,
+    "slug": "law_23",
+    "title": "Order No. (1) of 2013 With Regard  to Regulating Employers Registers",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/23",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/23",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_23_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/23"
+      },
+      "ar": {
+        "file": "data/raw/html/law_23_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/23"
+      }
+    }
+  },
+  {
+    "id": -1017,
+    "slug": "law_17",
+    "title": "Order No. (79) for 2009 Regarding the Procedures for Transferring a Foreign Worker to Another Employer",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/17",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/17",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_17_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/17"
+      },
+      "ar": {
+        "file": "data/raw/html/law_17_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/17"
+      }
+    }
+  },
+  {
+    "id": -1014,
+    "slug": "law_14",
+    "title": "Decision No. (76) (2008) Regarding Regulating Work Permits for Expatriate Employees Other than the category of Domestic Employees and its Amendments",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/14",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/14",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_14_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/14"
+      },
+      "ar": {
+        "file": "data/raw/html/law_14_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/14"
+      }
+    }
+  },
+  {
+    "id": -1013,
+    "slug": "law_13",
+    "title": "Order No. (77) of 2008 With Respect to the Employer's Obligations in the Event the Foreign Worker Leaves Work in Violation of the Terms of the Work Permit",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/13",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/13",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_13_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/13"
+      },
+      "ar": {
+        "file": "data/raw/html/law_13_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/13"
+      }
+    }
+  },
+  {
+    "id": -1012,
+    "slug": "law_12",
+    "title": "قرار رقم (3) لسنة 2024 بشأن ضوابط وإجراءات التصالح في الجرائم التي تقع بالمخالفة لأحكام القانون رقم (19) لسنة 2006 بشأن تنظيم سوق العمل",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/12",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/12",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_12_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/12"
+      },
+      "ar": {
+        "file": "data/raw/html/law_12_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/12"
+      }
+    }
+  },
+  {
+    "id": -1007,
+    "slug": "law_7",
+    "title": "Order No (73) of 2007 With Respect to the Terms of Acceptance of Electronic Transactions By the Labour Market Regulatory Authority",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/7",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/7",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_7_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/7"
+      },
+      "ar": {
+        "file": "data/raw/html/law_7_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/7"
+      }
+    }
+  },
+  {
+    "id": -1002,
+    "slug": "law_2",
+    "title": "Order No. (70) of 2007 Respecting System of Consulting with the  Public and Concerned Authorities",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/show/2",
+    "url_ar": "https://lmra.gov.bh/ar/legal/show/2",
+    "kind": "law",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/law_2_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/legal/show/2"
+      },
+      "ar": {
+        "file": "data/raw/html/law_2_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/legal/show/2"
+      }
+    }
+  },
+  {
+    "id": -105,
+    "slug": "legal_cat5",
+    "title": "Legislations: category 5",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/category/5",
+    "url_ar": "https://lmra.gov.bh/ar/legal/category/5",
+    "kind": "legal"
+  },
+  {
+    "id": -104,
+    "slug": "legal_cat4",
+    "title": "Legislations: category 4",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/category/4",
+    "url_ar": "https://lmra.gov.bh/ar/legal/category/4",
+    "kind": "legal"
+  },
+  {
+    "id": -103,
+    "slug": "legal_cat3",
+    "title": "Legislations: category 3",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/category/3",
+    "url_ar": "https://lmra.gov.bh/ar/legal/category/3",
+    "kind": "legal"
+  },
+  {
+    "id": -102,
+    "slug": "legal_cat2",
+    "title": "Legislations: category 2",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/category/2",
+    "url_ar": "https://lmra.gov.bh/ar/legal/category/2",
+    "kind": "legal"
+  },
+  {
+    "id": -101,
+    "slug": "legal_cat1",
+    "title": "Legislations: category 1",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/legal/category/1",
+    "url_ar": "https://lmra.gov.bh/ar/legal/category/1",
+    "kind": "legal"
+  },
+  {
+    "id": -13,
+    "slug": "faq_cat13",
+    "title": "FAQ: General Inquiries about Labour Inspection Directorate",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/13",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/13",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat13_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/13"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat13_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/13"
+      }
+    }
+  },
+  {
+    "id": -12,
+    "slug": "faq_cat12",
+    "title": "FAQ: General Questions about Wage Protection System (WPS)",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/12",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/12",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat12_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/12"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat12_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/12"
+      }
+    }
+  },
+  {
+    "id": -11,
+    "slug": "faq_cat11",
+    "title": "FAQ: General Questions Related to the Issuance of an International Bank Account Number (IBAN)",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/11",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/11",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat11_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/11"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat11_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/11"
+      }
+    }
+  },
+  {
+    "id": -10,
+    "slug": "faq_cat10",
+    "title": "FAQ: General Questions for the Labour Registration Program",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/10",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/10",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat10_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/10"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat10_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/10"
+      }
+    }
+  },
+  {
+    "id": -9,
+    "slug": "faq_cat9",
+    "title": "FAQ: General Questions for the E-Settlement Service",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/9",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/9",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat9_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/9"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat9_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/9"
+      }
+    }
+  },
+  {
+    "id": -7,
+    "slug": "faq_cat7",
+    "title": "FAQ: General Questions About the New Mechanism for Expatriate Employees Employment from Outside the Kingdom of Bahrain",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/7",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/7",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat7_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/7"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat7_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/7"
+      }
+    }
+  },
+  {
+    "id": -6,
+    "slug": "faq_cat6",
+    "title": "FAQ: General Questions for Domestic Employees",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/6",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/6",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat6_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/6"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat6_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/6"
+      }
+    }
+  },
+  {
+    "id": -5,
+    "slug": "faq_cat5",
+    "title": "FAQ: General Inquiries about Parallel Bahrainization System",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/5",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/5",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat5_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/5"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat5_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/5"
+      }
+    }
+  },
+  {
+    "id": -4,
+    "slug": "faq_cat4",
+    "title": "FAQ: General Questions by Employers",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/4",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/4",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat4_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/4"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat4_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/4"
+      }
+    }
+  },
+  {
+    "id": -1,
+    "slug": "faq_cat1",
+    "title": "FAQ: General Questions by Employees",
+    "service_groups": [
+      "FAQ"
+    ],
+    "url_en": "https://lmra.gov.bh/en/faq/category/1",
+    "url_ar": "https://lmra.gov.bh/ar/faq/category/1",
+    "kind": "faq",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/faq_cat1_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/faq/category/1"
+      },
+      "ar": {
+        "file": "data/raw/html/faq_cat1_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/faq/category/1"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "ACT NO. (19) (2006) WITH REGARD TO  THE REGULATION OF THE LABOUR MARKET",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/5",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/5",
+    "kind": "legal"
+  },
+  {
+    "id": 106,
+    "title": "New Work Permit",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/106",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/106",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/106_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/106"
+      },
+      "ar": {
+        "file": "data/raw/html/106_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/106"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "title": "Work Permit Renewal",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/120",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/120",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/120_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/120"
+      },
+      "ar": {
+        "file": "data/raw/html/120_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/120"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "title": "New Establishment Registration",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/130",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/130",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/130_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/130"
+      },
+      "ar": {
+        "file": "data/raw/html/130_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/130"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "title": "Fees",
+    "service_groups": [
+      "General Services"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/133",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/133",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/133_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/133"
+      },
+      "ar": {
+        "file": "data/raw/html/133_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/133"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "title": "Contractual Obligations of Employer and Expatriate Employee",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/151",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/151",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/151_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/151"
+      },
+      "ar": {
+        "file": "data/raw/html/151_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/151"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "title": "Contractual Obligations of Expatriate Employee and Employer",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/152",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/152",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/152_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/152"
+      },
+      "ar": {
+        "file": "data/raw/html/152_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/152"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "title": "Intention to Transfer",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/169",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/169",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/169_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/169"
+      },
+      "ar": {
+        "file": "data/raw/html/169_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/169"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "title": "Requirements to Apply for Work Permits if  CR Branches are Merged or Activities have Changed",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/178",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/178",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/178_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/178"
+      },
+      "ar": {
+        "file": "data/raw/html/178_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/178"
+      }
+    }
+  },
+  {
+    "id": 180,
+    "title": "Transfer Of Ownership Of Commercial Registrations",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/180",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/180",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/180_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/180"
+      },
+      "ar": {
+        "file": "data/raw/html/180_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/180"
+      }
+    }
+  },
+  {
+    "id": 181,
+    "title": "Workload",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/181",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/181",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/181_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/181"
+      },
+      "ar": {
+        "file": "data/raw/html/181_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/181"
+      }
+    }
+  },
+  {
+    "id": 187,
+    "title": "Expatriate and Domestic Employees Biometric Data Enrollment with LMRA",
+    "service_groups": [
+      "Establishment Employer",
+      "Domestic Employer",
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/187",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/187",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/187_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/187"
+      },
+      "ar": {
+        "file": "data/raw/html/187_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/187"
+      }
+    }
+  },
+  {
+    "id": 188,
+    "title": "Expatriate Employee Absence from Work Notification",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/188",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/188",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/188_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/188"
+      },
+      "ar": {
+        "file": "data/raw/html/188_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/188"
+      }
+    }
+  },
+  {
+    "id": 192,
+    "title": "Administrative Notices Removal Mechanism",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/192",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/192",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/192_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/192"
+      },
+      "ar": {
+        "file": "data/raw/html/192_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/192"
+      }
+    }
+  },
+  {
+    "id": 193,
+    "title": "Bahrainization Calculator",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/193",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/193",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/193_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/193"
+      },
+      "ar": {
+        "file": "data/raw/html/193_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/193"
+      }
+    }
+  },
+  {
+    "id": 194,
+    "title": "Details",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/194",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/194",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/194_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/194"
+      },
+      "ar": {
+        "file": "data/raw/html/194_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/194"
+      }
+    }
+  },
+  {
+    "id": 195,
+    "title": "Work Permits Ceiling Increase",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/195",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/195",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/195_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/195"
+      },
+      "ar": {
+        "file": "data/raw/html/195_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/195"
+      }
+    }
+  },
+  {
+    "id": 198,
+    "title": "Images Resizing",
+    "service_groups": [
+      "General Services"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/198",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/198",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/198_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/198"
+      },
+      "ar": {
+        "file": "data/raw/html/198_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/198"
+      }
+    }
+  },
+  {
+    "id": 199,
+    "title": "Labour Law",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/199",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/199",
+    "kind": "legal"
+  },
+  {
+    "id": 203,
+    "title": "Medical Examination for Expatriate Employees",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/203",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/203",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/203_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/203"
+      },
+      "ar": {
+        "file": "data/raw/html/203_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/203"
+      }
+    }
+  },
+  {
+    "id": 212,
+    "title": "Payment Methods",
+    "service_groups": [
+      "General Services"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/212",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/212",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/212_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/212"
+      },
+      "ar": {
+        "file": "data/raw/html/212_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/212"
+      }
+    }
+  },
+  {
+    "id": 221,
+    "title": "Legislations",
+    "service_groups": [
+      "Legal"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/221",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/221",
+    "kind": "legislations",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/221_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/221"
+      },
+      "ar": {
+        "file": "data/raw/html/221_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/221"
+      }
+    }
+  },
+  {
+    "id": 318,
+    "title": "List of (Manpower) Employment Offices",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/318",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/318",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/318_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/318"
+      },
+      "ar": {
+        "file": "data/raw/html/318_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/318"
+      }
+    }
+  },
+  {
+    "id": 323,
+    "title": "Appointment Management System",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/323",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/323",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/323_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/323"
+      },
+      "ar": {
+        "file": "data/raw/html/323_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/323"
+      }
+    }
+  },
+  {
+    "id": 328,
+    "title": "Tripartite Domestic Employee Contract",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/328",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/328",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/328_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/328"
+      },
+      "ar": {
+        "file": "data/raw/html/328_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/328"
+      }
+    }
+  },
+  {
+    "id": 335,
+    "title": "National Employment Program",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/335",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/335",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/335_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/335"
+      },
+      "ar": {
+        "file": "data/raw/html/335_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/335"
+      }
+    }
+  },
+  {
+    "id": 337,
+    "title": "Wafid",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee",
+      "General Services"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/337",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/337",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/337_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/337"
+      },
+      "ar": {
+        "file": "data/raw/html/337_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/337"
+      }
+    }
+  },
+  {
+    "id": 338,
+    "title": "List of Manpower Agencies (Supplying Domestic Employees)",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/338",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/338",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/338_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/338"
+      },
+      "ar": {
+        "file": "data/raw/html/338_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/338"
+      }
+    }
+  },
+  {
+    "id": 340,
+    "title": "Details",
+    "service_groups": [
+      "Establishment Employer",
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/340",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/340",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/340_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/340"
+      },
+      "ar": {
+        "file": "data/raw/html/340_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/340"
+      }
+    }
+  },
+  {
+    "id": 418,
+    "title": "The Optional Insurance System for Domestic Employees",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/418",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/418",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/418_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/418"
+      },
+      "ar": {
+        "file": "data/raw/html/418_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/418"
+      }
+    }
+  },
+  {
+    "id": 423,
+    "title": "List of Approved Labour Registration Centres",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/423",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/423",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/423_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/423"
+      },
+      "ar": {
+        "file": "data/raw/html/423_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/423"
+      }
+    }
+  },
+  {
+    "id": 425,
+    "title": "Obtaining the Activity of Labour Registration Centre",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/425",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/425",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/425_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/425"
+      },
+      "ar": {
+        "file": "data/raw/html/425_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/425"
+      }
+    }
+  },
+  {
+    "id": 427,
+    "title": "Worker Registration Mechanism in Labour Registration Centres",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/427",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/427",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/427_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/427"
+      },
+      "ar": {
+        "file": "data/raw/html/427_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/427"
+      }
+    }
+  },
+  {
+    "id": 430,
+    "title": "Decisions Issued with Regards to Apply Labour Registration Program",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/430",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/430",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/430_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/430"
+      },
+      "ar": {
+        "file": "data/raw/html/430_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/430"
+      }
+    }
+  },
+  {
+    "id": 431,
+    "title": "Service Agreements Portal",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/431",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/431",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/431_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/431"
+      },
+      "ar": {
+        "file": "data/raw/html/431_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/431"
+      }
+    }
+  },
+  {
+    "id": 435,
+    "title": "Issuing New Work Permit for Domestic Employees",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/435",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/435",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/435_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/435"
+      },
+      "ar": {
+        "file": "data/raw/html/435_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/435"
+      }
+    }
+  },
+  {
+    "id": 438,
+    "title": "Application Forms",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/438",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/438",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/438_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/438"
+      },
+      "ar": {
+        "file": "data/raw/html/438_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/438"
+      }
+    }
+  },
+  {
+    "id": 439,
+    "title": "Medical Examination for Domestic Employees",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/439",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/439",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/439_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/439"
+      },
+      "ar": {
+        "file": "data/raw/html/439_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/439"
+      }
+    }
+  },
+  {
+    "id": 449,
+    "title": "Renewing the Domestic Employee Work Permit",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/449",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/449",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/449_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/449"
+      },
+      "ar": {
+        "file": "data/raw/html/449_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/449"
+      }
+    }
+  },
+  {
+    "id": 471,
+    "title": "Details",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/471",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/471",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/471_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/471"
+      },
+      "ar": {
+        "file": "data/raw/html/471_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/471"
+      }
+    }
+  },
+  {
+    "id": 472,
+    "title": "Details",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/472",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/472",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/472_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/472"
+      },
+      "ar": {
+        "file": "data/raw/html/472_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/472"
+      }
+    }
+  },
+  {
+    "id": 474,
+    "title": "Medical Examination Rescheduling Service for Domestic Employees",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/474",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/474",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/474_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/474"
+      },
+      "ar": {
+        "file": "data/raw/html/474_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/474"
+      }
+    }
+  },
+  {
+    "id": 475,
+    "title": "Domestic Employee Change of Occupation",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/475",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/475",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/475_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/475"
+      },
+      "ar": {
+        "file": "data/raw/html/475_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/475"
+      }
+    }
+  },
+  {
+    "id": 476,
+    "title": "Domestic Employee Absence from Work Notification",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/476",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/476",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/476_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/476"
+      },
+      "ar": {
+        "file": "data/raw/html/476_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/476"
+      }
+    }
+  },
+  {
+    "id": 478,
+    "title": "Domestic Employee Work Permit Cancellation",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/478",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/478",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/478_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/478"
+      },
+      "ar": {
+        "file": "data/raw/html/478_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/478"
+      }
+    }
+  },
+  {
+    "id": 484,
+    "title": "Issuing a Permanent Ceiling for Domestic Employees",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/484",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/484",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/484_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/484"
+      },
+      "ar": {
+        "file": "data/raw/html/484_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/484"
+      }
+    }
+  },
+  {
+    "id": 503,
+    "title": "Work Permit Renewal (Commercial Sector) - Remote Service",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/503",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/503",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/503_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/503"
+      },
+      "ar": {
+        "file": "data/raw/html/503_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/503"
+      }
+    }
+  },
+  {
+    "id": 514,
+    "title": "Grievance Against the Absence from Work During the Verification Period (7 Days)",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/514",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/514",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/514_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/514"
+      },
+      "ar": {
+        "file": "data/raw/html/514_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/514"
+      }
+    }
+  },
+  {
+    "id": 517,
+    "title": "New Work Approval for Dependants",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/517",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/517",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/517_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/517"
+      },
+      "ar": {
+        "file": "data/raw/html/517_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/517"
+      }
+    }
+  },
+  {
+    "id": 521,
+    "title": "Executive Service",
+    "service_groups": [
+      "General Services"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/521",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/521",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/521_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/521"
+      },
+      "ar": {
+        "file": "data/raw/html/521_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/521"
+      }
+    }
+  },
+  {
+    "id": 524,
+    "title": "Issuance of an Employment Office License",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/524",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/524",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/524_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/524"
+      },
+      "ar": {
+        "file": "data/raw/html/524_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/524"
+      }
+    }
+  },
+  {
+    "id": 527,
+    "title": "Complaint Against Employment Office",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/527",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/527",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/527_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/527"
+      },
+      "ar": {
+        "file": "data/raw/html/527_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/527"
+      }
+    }
+  },
+  {
+    "id": 529,
+    "title": "Issuance of a Manpower Supply Agency License",
+    "service_groups": [
+      "Licensed CRs"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/529",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/529",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/529_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/529"
+      },
+      "ar": {
+        "file": "data/raw/html/529_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/529"
+      }
+    }
+  },
+  {
+    "id": 533,
+    "title": "Adding an Authorized Person",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/533",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/533",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/533_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/533"
+      },
+      "ar": {
+        "file": "data/raw/html/533_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/533"
+      }
+    }
+  },
+  {
+    "id": 536,
+    "title": "Change of Occupation",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/536",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/536",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/536_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/536"
+      },
+      "ar": {
+        "file": "data/raw/html/536_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/536"
+      }
+    }
+  },
+  {
+    "id": 537,
+    "title": "Un-intend to Transfer",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/537",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/537",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/537_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/537"
+      },
+      "ar": {
+        "file": "data/raw/html/537_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/537"
+      }
+    }
+  },
+  {
+    "id": 539,
+    "title": "Application for a New Work Permit for Golden Residency Holders",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/539",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/539",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/539_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/539"
+      },
+      "ar": {
+        "file": "data/raw/html/539_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/539"
+      }
+    }
+  },
+  {
+    "id": 540,
+    "title": "Renewal of the Work Permit for Golden Residency Holders",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/540",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/540",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/540_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/540"
+      },
+      "ar": {
+        "file": "data/raw/html/540_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/540"
+      }
+    }
+  },
+  {
+    "id": 542,
+    "title": "Change of Occupation for Golden Residency Holders",
+    "service_groups": [
+      "Golden Residency"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/542",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/542",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/542_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/542"
+      },
+      "ar": {
+        "file": "data/raw/html/542_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/542"
+      }
+    }
+  },
+  {
+    "id": 544,
+    "title": "New Work Permit for Expatriates Authorized to Reside in the Kingdom of Bahrain",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/544",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/544",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/544_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/544"
+      },
+      "ar": {
+        "file": "data/raw/html/544_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/544"
+      }
+    }
+  },
+  {
+    "id": 549,
+    "title": "Apply for a Registered Worker Permit",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/549",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/549",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/549_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/549"
+      },
+      "ar": {
+        "file": "data/raw/html/549_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/549"
+      }
+    }
+  },
+  {
+    "id": 550,
+    "title": "Renewal of the Registered Worker Permit",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/550",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/550",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/550_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/550"
+      },
+      "ar": {
+        "file": "data/raw/html/550_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/550"
+      }
+    }
+  },
+  {
+    "id": 551,
+    "title": "Termination of the Registered Worker Permit",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/551",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/551",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/551_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/551"
+      },
+      "ar": {
+        "file": "data/raw/html/551_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/551"
+      }
+    }
+  },
+  {
+    "id": 552,
+    "title": "Changing the Occupation of the Registered Worker",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/552",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/552",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/552_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/552"
+      },
+      "ar": {
+        "file": "data/raw/html/552_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/552"
+      }
+    }
+  },
+  {
+    "id": 553,
+    "title": "Updating the Employer and the Establishments Details at LMRA",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/553",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/553",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/553_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/553"
+      },
+      "ar": {
+        "file": "data/raw/html/553_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/553"
+      }
+    }
+  },
+  {
+    "id": 565,
+    "title": "Dependants Residency Permit (Wife/Husband)",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/565",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/565",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/565_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/565"
+      },
+      "ar": {
+        "file": "data/raw/html/565_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/565"
+      }
+    }
+  },
+  {
+    "id": 567,
+    "title": "Cancellation of an Expired Work Permit",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/567",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/567",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/567_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/567"
+      },
+      "ar": {
+        "file": "data/raw/html/567_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/567"
+      }
+    }
+  },
+  {
+    "id": 568,
+    "title": "Cancellation of an In-Progress Application",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/568",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/568",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/568_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/568"
+      },
+      "ar": {
+        "file": "data/raw/html/568_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/568"
+      }
+    }
+  },
+  {
+    "id": 571,
+    "title": "List of Cancelled Employment Offices",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/571",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/571",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/571_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/571"
+      },
+      "ar": {
+        "file": "data/raw/html/571_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/571"
+      }
+    }
+  },
+  {
+    "id": 573,
+    "title": "Work Permit Cancellation and Expatriate Employee Deportation",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/573",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/573",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/573_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/573"
+      },
+      "ar": {
+        "file": "data/raw/html/573_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/573"
+      }
+    }
+  },
+  {
+    "id": 576,
+    "title": "Viewing Administrative Offences for Domestic Employers",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/576",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/576",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/576_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/576"
+      },
+      "ar": {
+        "file": "data/raw/html/576_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/576"
+      }
+    }
+  },
+  {
+    "id": 584,
+    "title": "Details",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/584",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/584",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/584_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/584"
+      },
+      "ar": {
+        "file": "data/raw/html/584_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/584"
+      }
+    }
+  },
+  {
+    "id": 596,
+    "title": "Expatriate Employee Multi-Languages Guide",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/596",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/596",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/596_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/596"
+      },
+      "ar": {
+        "file": "data/raw/html/596_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/596"
+      }
+    }
+  },
+  {
+    "id": 598,
+    "title": "Multi-Languages List of Approved Labour Registration Centres",
+    "service_groups": [
+      "Registered Worker"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/598",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/598",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/598_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/598"
+      },
+      "ar": {
+        "file": "data/raw/html/598_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/598"
+      }
+    }
+  },
+  {
+    "id": 607,
+    "title": "Expatriate Employee Deportation Deposit",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/607",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/607",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/607_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/607"
+      },
+      "ar": {
+        "file": "data/raw/html/607_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/607"
+      }
+    }
+  },
+  {
+    "id": 619,
+    "title": "Activate Your IBAN Guides",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/619",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/619",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/619_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/619"
+      },
+      "ar": {
+        "file": "data/raw/html/619_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/619"
+      }
+    }
+  },
+  {
+    "id": 626,
+    "title": "Domestic Deposit Refund",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/626",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/626",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/626_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/626"
+      },
+      "ar": {
+        "file": "data/raw/html/626_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/626"
+      }
+    }
+  },
+  {
+    "id": 631,
+    "title": "Details",
+    "service_groups": [
+      "Establishment Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/631",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/631",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/631_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/631"
+      },
+      "ar": {
+        "file": "data/raw/html/631_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/631"
+      }
+    }
+  },
+  {
+    "id": 651,
+    "title": "Details",
+    "service_groups": [
+      "Expatriate Employee"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/651",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/651",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/651_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/651"
+      },
+      "ar": {
+        "file": "data/raw/html/651_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/651"
+      }
+    }
+  },
+  {
+    "id": 664,
+    "title": "Documents",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/664",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/664",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/664_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/664"
+      },
+      "ar": {
+        "file": "data/raw/html/664_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/664"
+      }
+    }
+  },
+  {
+    "id": 678,
+    "title": "Details",
+    "service_groups": [
+      "Domestic Employer"
+    ],
+    "url_en": "https://lmra.gov.bh/en/page/show/678",
+    "url_ar": "https://lmra.gov.bh/ar/page/show/678",
+    "kind": "leaf",
+    "fetched": {
+      "en": {
+        "file": "data/raw/html/678_en.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/en/page/show/678"
+      },
+      "ar": {
+        "file": "data/raw/html/678_ar.html",
+        "fetch_date": "2026-07-02",
+        "final_url": "https://lmra.gov.bh/ar/page/show/678"
+      }
+    }
+  }
+]
